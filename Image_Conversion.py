@@ -164,5 +164,4 @@ def perform_ocr_and_get_json(img_path):
 
     # Convert BGR to RGB for displaying with matplotlib
     # image_with_boxes_rgb = cv2.cvtColor(image_with_boxes, cv2.COLOR_BGR2RGB)
-
     return json_file_path
