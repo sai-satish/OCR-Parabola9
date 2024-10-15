@@ -91,3 +91,84 @@ else:
     # Save the enhanced image without increasing pixel dimensions
     cv2.imwrite("enhanced_image_denoised-2.jpg", final_image)
     print("Image processing complete. The enhanced image has been saved.")
+
+import json
+import cv2
+from paddleocr import PaddleOCR
+import numpy as np
+from matplotlib import pyplot as plt
+
+# Initialize the PaddleOCR model for English
+ocr = PaddleOCR(use_angle_cls=True, lang='en')
+
+# Load the image
+img_path = './sample1-out/output_image_2k.jpg'
+img = cv2.imread(img_path)
+
+# Perform OCR on the image
+result = ocr.ocr(img_path, cls=True)
+
+# Function to group text boxes into rows based on y-coordinates
+def is_same_row(box1, box2, row_threshold=10):
+    _, y1, _, y2 = box1[0][1], box1[2][1], box2[0][1], box2[2][1]
+    return abs(y1 - y2) < row_threshold
+
+# Group the detected text into rows
+rows = []
+current_row = []
+for line in result[0]:
+    box = line[0]      # Bounding box coordinates
+    text = line[1][0]  # Detected text
+    confidence = line[1][1]
+
+    if current_row and not is_same_row(current_row[-1][0], box):
+        rows.append(current_row)
+        current_row = []
+
+    current_row.append((box, text, confidence))
+
+if current_row:
+    rows.append(current_row)
+
+# Sort each row by the x-coordinate for left-to-right reading
+for row in rows:
+    row.sort(key=lambda x: x[0][0][0])
+
+# Dynamically extract column headers from the first row
+column_headers = [item[1] for item in rows[0]]  # Extract text values from the first row
+
+# Convert subsequent rows into structured data
+data = []
+for row in rows[1:]:  # Skip the first row, as it's the header
+    row_data = {}
+    for i, (box, text, confidence) in enumerate(row):
+        if i < len(column_headers):  # Ensure we don't exceed column count
+            row_data[column_headers[i]] = {
+                "text": text,
+                "confidence": confidence,
+                "bounding_box": box  # Store the bounding box information
+            }
+    data.append(row_data)
+
+# Save the structured data with bounding box info as JSON
+json_file_path = './bounding_box_data_with_text.json'
+with open(json_file_path, 'w') as json_file:
+    json.dump(data, json_file, indent=4)
+
+print(f"Bounding box data saved as JSON: {json_file_path}")
+
+# (Optional) Visualize the detected text and bounding boxes
+boxes = [res[0] for res in result[0]]  # Bounding boxes for the detected text
+txts = [res[1][0] for res in result[0]]  # The recognized text
+scores = [res[1][1] for res in result[0]]  # Confidence scores
+
+# Draw results on the image and visualize
+image_with_boxes = cv2.polylines(img.copy(), [np.array(box).astype(int) for box in boxes], True, (0, 255, 0), 2)
+
+# Convert BGR to RGB for displaying with matplotlib
+image_with_boxes_rgb = cv2.cvtColor(image_with_boxes, cv2.COLOR_BGR2RGB)
+
+# Display the image with bounding boxes
+plt.imshow(image_with_boxes_rgb)
+plt.axis('off')  # Hide axes
+plt.show()
