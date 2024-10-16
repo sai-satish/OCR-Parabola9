@@ -95,11 +95,11 @@ def denoise_image(path):
 def perform_ocr_and_get_json(img_path):
 
     # Initialize the PaddleOCR model for English
-    # ocr = PaddleOCR(use_angle_cls=True, lang='en')
+    ocr = PaddleOCR(use_angle_cls=True, lang='en')
 
     # Load the image
-    # img_path = './sample1-out/output_image_2k.jpg'
-    # img = cv2.imread(img_path)
+    img_path = './sample1-out/output_image_2k.jpg'
+    img = cv2.imread(img_path)
 
     # Perform OCR on the image
     result = ocr.ocr(img_path, cls=True)
