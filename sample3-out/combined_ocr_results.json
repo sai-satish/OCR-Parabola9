@@ -1,0 +1,8604 @@
+[
+    {
+        "bounding_box": [
+            [
+                702,
+                111
+            ],
+            [
+                852,
+                111
+            ],
+            [
+                852,
+                150
+            ],
+            [
+                702,
+                150
+            ]
+        ],
+        "easyocr_text": "Ist Year",
+        "paddleocr_text": "1st Year",
+        "confidence": 0.9604396820068359
+    },
+    {
+        "bounding_box": [
+            [
+                1282,
+                70
+            ],
+            [
+                2627,
+                70
+            ],
+            [
+                2627,
+                166
+            ],
+            [
+                1282,
+                166
+            ]
+        ],
+        "easyocr_text": "BOARD OF INTERMEDIATE EDUCATION (A.PJ)",
+        "paddleocr_text": "BOARD OF INTERMEDIATE EDUCATION (A.P.)",
+        "confidence": 0.9471147656440735
+    },
+    {
+        "bounding_box": [
+            [
+                2899,
+                114
+            ],
+            [
+                3304,
+                114
+            ],
+            [
+                3304,
+                169
+            ],
+            [
+                2899,
+                169
+            ]
+        ],
+        "easyocr_text": "H Y D E R A B A D",
+        "paddleocr_text": "HYDERABAD",
+        "confidence": 0.9968287348747253
+    },
+    {
+        "bounding_box": [
+            [
+                1629,
+                136
+            ],
+            [
+                2257,
+                136
+            ],
+            [
+                2257,
+                203
+            ],
+            [
+                1629,
+                203
+            ]
+        ],
+        "easyocr_text": "TABULATION REGISTER",
+        "paddleocr_text": "TABULATION REGISTER",
+        "confidence": 0.9731898307800293
+    },
+    {
+        "bounding_box": [
+            [
+                260,
+                186
+            ],
+            [
+                455,
+                186
+            ],
+            [
+                455,
+                228
+            ],
+            [
+                260,
+                228
+            ]
+        ],
+        "easyocr_text": "COLLEGE:",
+        "paddleocr_text": "COLLEGE:",
+        "confidence": 0.9901331663131714
+    },
+    {
+        "bounding_box": [
+            [
+                483,
+                183
+            ],
+            [
+                591,
+                183
+            ],
+            [
+                591,
+                228
+            ],
+            [
+                483,
+                228
+            ]
+        ],
+        "easyocr_text": "1400",
+        "paddleocr_text": "1400",
+        "confidence": 0.9987993240356445
+    },
+    {
+        "bounding_box": [
+            [
+                636,
+                186
+            ],
+            [
+                744,
+                186
+            ],
+            [
+                744,
+                228
+            ],
+            [
+                636,
+                228
+            ]
+        ],
+        "easyocr_text": "G0vt",
+        "paddleocr_text": "GOVT",
+        "confidence": 0.9965731501579285
+    },
+    {
+        "bounding_box": [
+            [
+                765,
+                186
+            ],
+            [
+                873,
+                186
+            ],
+            [
+                873,
+                231
+            ],
+            [
+                765,
+                231
+            ]
+        ],
+        "easyocr_text": "COLL",
+        "paddleocr_text": "COLL",
+        "confidence": 0.9969298243522644
+    },
+    {
+        "bounding_box": [
+            [
+                895,
+                193
+            ],
+            [
+                923,
+                193
+            ],
+            [
+                923,
+                227
+            ],
+            [
+                895,
+                227
+            ]
+        ],
+        "easyocr_text": "W",
+        "paddleocr_text": "W",
+        "confidence": 0.8399724178161705
+    },
+    {
+        "bounding_box": [
+            [
+                945,
+                189
+            ],
+            [
+                1107,
+                189
+            ],
+            [
+                1107,
+                234
+            ],
+            [
+                945,
+                234
+            ]
+        ],
+        "easyocr_text": "G UNtur",
+        "paddleocr_text": "GUNTUR",
+        "confidence": 0.9957264065742493
+    },
+    {
+        "bounding_box": [
+            [
+                1545,
+                207
+            ],
+            [
+                1617,
+                207
+            ],
+            [
+                1617,
+                246
+            ],
+            [
+                1545,
+                246
+            ]
+        ],
+        "easyocr_text": "Dist",
+        "paddleocr_text": "Dist",
+        "confidence": 0.9986362457275391
+    },
+    {
+        "bounding_box": [
+            [
+                1668,
+                198
+            ],
+            [
+                1830,
+                198
+            ],
+            [
+                1830,
+                237
+            ],
+            [
+                1668,
+                237
+            ]
+        ],
+        "easyocr_text": "GUNTUR",
+        "paddleocr_text": "GUNTUR",
+        "confidence": 0.9965202808380127
+    },
+    {
+        "bounding_box": [
+            [
+                2217,
+                204
+            ],
+            [
+                2457,
+                204
+            ],
+            [
+                2457,
+                249
+            ],
+            [
+                2217,
+                249
+            ]
+        ],
+        "easyocr_text": "SEPTEMBER",
+        "paddleocr_text": "SEPTEMBER",
+        "confidence": 0.9948918223381042
+    },
+    {
+        "bounding_box": [
+            [
+                2010,
+                216
+            ],
+            [
+                2118,
+                216
+            ],
+            [
+                2118,
+                252
+            ],
+            [
+                2010,
+                252
+            ]
+        ],
+        "easyocr_text": "Month",
+        "paddleocr_text": "Month",
+        "confidence": 0.997657299041748
+    },
+    {
+        "bounding_box": [
+            [
+                2556,
+                222
+            ],
+            [
+                2643,
+                222
+            ],
+            [
+                2643,
+                261
+            ],
+            [
+                2556,
+                261
+            ]
+        ],
+        "easyocr_text": "Year",
+        "paddleocr_text": "Year",
+        "confidence": 0.997767448425293
+    },
+    {
+        "bounding_box": [
+            [
+                2658,
+                210
+            ],
+            [
+                2769,
+                210
+            ],
+            [
+                2769,
+                255
+            ],
+            [
+                2658,
+                255
+            ]
+        ],
+        "easyocr_text": "1988",
+        "paddleocr_text": "1988",
+        "confidence": 0.9984244108200073
+    },
+    {
+        "bounding_box": [
+            [
+                3144,
+                234
+            ],
+            [
+                3201,
+                234
+            ],
+            [
+                3201,
+                273
+            ],
+            [
+                3144,
+                273
+            ]
+        ],
+        "easyocr_text": "No.",
+        "paddleocr_text": "No",
+        "confidence": 0.9859996438026428
+    },
+    {
+        "bounding_box": [
+            [
+                3232,
+                214
+            ],
+            [
+                3400,
+                214
+            ],
+            [
+                3400,
+                268
+            ],
+            [
+                3232,
+                268
+            ]
+        ],
+        "easyocr_text": "002955",
+        "paddleocr_text": "002955",
+        "confidence": 0.9954341053962708
+    },
+    {
+        "bounding_box": [
+            [
+                302,
+                282
+            ],
+            [
+                486,
+                282
+            ],
+            [
+                486,
+                326
+            ],
+            [
+                302,
+                326
+            ]
+        ],
+        "easyocr_text": "REGISTERED",
+        "paddleocr_text": "REGISTERED",
+        "confidence": 0.9965669512748718
+    },
+    {
+        "bounding_box": [
+            [
+                1291,
+                289
+            ],
+            [
+                1319,
+                289
+            ],
+            [
+                1319,
+                320
+            ],
+            [
+                1291,
+                320
+            ]
+        ],
+        "easyocr_text": "M",
+        "paddleocr_text": "M",
+        "confidence": 0.930247276919772
+    },
+    {
+        "bounding_box": [
+            [
+                1464,
+                288
+            ],
+            [
+                1560,
+                288
+            ],
+            [
+                1560,
+                324
+            ],
+            [
+                1464,
+                324
+            ]
+        ],
+        "easyocr_text": "PART-I",
+        "paddleocr_text": "PART-I",
+        "confidence": 0.9204726815223694
+    },
+    {
+        "bounding_box": [
+            [
+                1804,
+                298
+            ],
+            [
+                1907,
+                298
+            ],
+            [
+                1907,
+                329
+            ],
+            [
+                1804,
+                329
+            ]
+        ],
+        "easyocr_text": "PART-II",
+        "paddleocr_text": "PART-II",
+        "confidence": 0.8848071098327637
+    },
+    {
+        "bounding_box": [
+            [
+                330,
+                324
+            ],
+            [
+                459,
+                324
+            ],
+            [
+                459,
+                360
+            ],
+            [
+                330,
+                360
+            ]
+        ],
+        "easyocr_text": "NUMBER",
+        "paddleocr_text": "NUMBER",
+        "confidence": 0.9964028000831604
+    },
+    {
+        "bounding_box": [
+            [
+                600,
+                306
+            ],
+            [
+                726,
+                306
+            ],
+            [
+                726,
+                342
+            ],
+            [
+                600,
+                342
+            ]
+        ],
+        "easyocr_text": "NA M E",
+        "paddleocr_text": "NAME",
+        "confidence": 0.9977153539657593
+    },
+    {
+        "bounding_box": [
+            [
+                742,
+                313
+            ],
+            [
+                800,
+                313
+            ],
+            [
+                800,
+                344
+            ],
+            [
+                742,
+                344
+            ]
+        ],
+        "easyocr_text": "0 F",
+        "paddleocr_text": "O",
+        "confidence": 0.572625458240509
+    },
+    {
+        "bounding_box": [
+            [
+                813,
+                312
+            ],
+            [
+                900,
+                312
+            ],
+            [
+                900,
+                348
+            ],
+            [
+                813,
+                348
+            ]
+        ],
+        "easyocr_text": "Th E",
+        "paddleocr_text": "THE",
+        "confidence": 0.9981433749198914
+    },
+    {
+        "bounding_box": [
+            [
+                914,
+                311
+            ],
+            [
+                1173,
+                311
+            ],
+            [
+                1173,
+                354
+            ],
+            [
+                914,
+                354
+            ]
+        ],
+        "easyocr_text": "C A N D / D A T E",
+        "paddleocr_text": "CANDIDATE",
+        "confidence": 0.997238278388977
+    },
+    {
+        "bounding_box": [
+            [
+                1291,
+                325
+            ],
+            [
+                1319,
+                325
+            ],
+            [
+                1319,
+                356
+            ],
+            [
+                1291,
+                356
+            ]
+        ],
+        "easyocr_text": "E",
+        "paddleocr_text": "E",
+        "confidence": 0.9984474778175354
+    },
+    {
+        "bounding_box": [
+            [
+                2644,
+                313
+            ],
+            [
+                2756,
+                313
+            ],
+            [
+                2756,
+                344
+            ],
+            [
+                2644,
+                344
+            ]
+        ],
+        "easyocr_text": "PART-IlI",
+        "paddleocr_text": "PART-III",
+        "confidence": 0.9350450038909912
+    },
+    {
+        "bounding_box": [
+            [
+                3381,
+                339
+            ],
+            [
+                3492,
+                339
+            ],
+            [
+                3492,
+                375
+            ],
+            [
+                3381,
+                375
+            ]
+        ],
+        "easyocr_text": "GRAND",
+        "paddleocr_text": "GRAND",
+        "confidence": 0.9979187250137329
+    },
+    {
+        "bounding_box": [
+            [
+                1295,
+                365
+            ],
+            [
+                1315,
+                365
+            ],
+            [
+                1315,
+                391
+            ],
+            [
+                1295,
+                391
+            ]
+        ],
+        "easyocr_text": "D",
+        "paddleocr_text": "D",
+        "confidence": 0.9705519562038631
+    },
+    {
+        "bounding_box": [
+            [
+                1411,
+                358
+            ],
+            [
+                1472,
+                358
+            ],
+            [
+                1472,
+                389
+            ],
+            [
+                1411,
+                389
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9977197647094727
+    },
+    {
+        "bounding_box": [
+            [
+                1557,
+                360
+            ],
+            [
+                1671,
+                360
+            ],
+            [
+                1671,
+                396
+            ],
+            [
+                1557,
+                396
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9966428875923157
+    },
+    {
+        "bounding_box": [
+            [
+                1741,
+                364
+            ],
+            [
+                1802,
+                364
+            ],
+            [
+                1802,
+                395
+            ],
+            [
+                1741,
+                395
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9976444840431213
+    },
+    {
+        "bounding_box": [
+            [
+                1893,
+                366
+            ],
+            [
+                2007,
+                366
+            ],
+            [
+                2007,
+                402
+            ],
+            [
+                1893,
+                402
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9971349239349365
+    },
+    {
+        "bounding_box": [
+            [
+                2073,
+                369
+            ],
+            [
+                2136,
+                369
+            ],
+            [
+                2136,
+                405
+            ],
+            [
+                2073,
+                405
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9974048733711243
+    },
+    {
+        "bounding_box": [
+            [
+                2226,
+                372
+            ],
+            [
+                2343,
+                372
+            ],
+            [
+                2343,
+                408
+            ],
+            [
+                2226,
+                408
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9966745376586914
+    },
+    {
+        "bounding_box": [
+            [
+                2419,
+                376
+            ],
+            [
+                2483,
+                376
+            ],
+            [
+                2483,
+                407
+            ],
+            [
+                2419,
+                407
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9968030452728271
+    },
+    {
+        "bounding_box": [
+            [
+                2568,
+                378
+            ],
+            [
+                2682,
+                378
+            ],
+            [
+                2682,
+                414
+            ],
+            [
+                2568,
+                414
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9963088631629944
+    },
+    {
+        "bounding_box": [
+            [
+                2763,
+                381
+            ],
+            [
+                2829,
+                381
+            ],
+            [
+                2829,
+                417
+            ],
+            [
+                2763,
+                417
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9976653456687927
+    },
+    {
+        "bounding_box": [
+            [
+                3387,
+                375
+            ],
+            [
+                3486,
+                375
+            ],
+            [
+                3486,
+                411
+            ],
+            [
+                3387,
+                411
+            ]
+        ],
+        "easyocr_text": "TOTAL",
+        "paddleocr_text": "TOTAL",
+        "confidence": 0.9984539151191711
+    },
+    {
+        "bounding_box": [
+            [
+                3504,
+                363
+            ],
+            [
+                3621,
+                363
+            ],
+            [
+                3621,
+                399
+            ],
+            [
+                3504,
+                399
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9963411688804626
+    },
+    {
+        "bounding_box": [
+            [
+                2907,
+                384
+            ],
+            [
+                3021,
+                384
+            ],
+            [
+                3021,
+                420
+            ],
+            [
+                2907,
+                420
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9958209991455078
+    },
+    {
+        "bounding_box": [
+            [
+                3091,
+                391
+            ],
+            [
+                3152,
+                391
+            ],
+            [
+                3152,
+                422
+            ],
+            [
+                3091,
+                422
+            ]
+        ],
+        "easyocr_text": "PAP",
+        "paddleocr_text": "PAP",
+        "confidence": 0.9979760646820068
+    },
+    {
+        "bounding_box": [
+            [
+                3249,
+                393
+            ],
+            [
+                3366,
+                393
+            ],
+            [
+                3366,
+                429
+            ],
+            [
+                3249,
+                429
+            ]
+        ],
+        "easyocr_text": "RESULT",
+        "paddleocr_text": "RESULT",
+        "confidence": 0.9972012042999268
+    },
+    {
+        "bounding_box": [
+            [
+                1405,
+                412
+            ],
+            [
+                1436,
+                412
+            ],
+            [
+                1436,
+                449
+            ],
+            [
+                1405,
+                449
+            ]
+        ],
+        "easyocr_text": "0",
+        "paddleocr_text": "0",
+        "confidence": 0.9993083481296914
+    },
+    {
+        "bounding_box": [
+            [
+                1740,
+                417
+            ],
+            [
+                1800,
+                417
+            ],
+            [
+                1800,
+                459
+            ],
+            [
+                1740,
+                459
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "03",
+        "confidence": 0.9948229789733887
+    },
+    {
+        "bounding_box": [
+            [
+                2082,
+                420
+            ],
+            [
+                2133,
+                420
+            ],
+            [
+                2133,
+                459
+            ],
+            [
+                2082,
+                459
+            ]
+        ],
+        "easyocr_text": "37",
+        "paddleocr_text": "37",
+        "confidence": 0.9991779825638479
+    },
+    {
+        "bounding_box": [
+            [
+                2421,
+                426
+            ],
+            [
+                2475,
+                426
+            ],
+            [
+                2475,
+                465
+            ],
+            [
+                2421,
+                465
+            ]
+        ],
+        "easyocr_text": "58",
+        "paddleocr_text": "38",
+        "confidence": 0.9975123405456543
+    },
+    {
+        "bounding_box": [
+            [
+                2761,
+                436
+            ],
+            [
+                2789,
+                436
+            ],
+            [
+                2789,
+                467
+            ],
+            [
+                2761,
+                467
+            ]
+        ],
+        "easyocr_text": "4",
+        "paddleocr_text": "4",
+        "confidence": 0.9999868870211372
+    },
+    {
+        "bounding_box": [
+            [
+                3099,
+                441
+            ],
+            [
+                3153,
+                441
+            ],
+            [
+                3153,
+                477
+            ],
+            [
+                3099,
+                477
+            ]
+        ],
+        "easyocr_text": "42",
+        "paddleocr_text": "42",
+        "confidence": 0.9999163816765495
+    },
+    {
+        "bounding_box": [
+            [
+                1748,
+                470
+            ],
+            [
+                1771,
+                470
+            ],
+            [
+                1771,
+                490
+            ],
+            [
+                1748,
+                490
+            ]
+        ],
+        "easyocr_text": "3",
+        "paddleocr_text": "3",
+        "confidence": 0.9436661771019885
+    },
+    {
+        "bounding_box": [
+            [
+                322,
+                521
+            ],
+            [
+                484,
+                521
+            ],
+            [
+                484,
+                574
+            ],
+            [
+                322,
+                574
+            ]
+        ],
+        "easyocr_text": "102492",
+        "paddleocr_text": "102492",
+        "confidence": 0.9971042275428772
+    },
+    {
+        "bounding_box": [
+            [
+                525,
+                531
+            ],
+            [
+                765,
+                531
+            ],
+            [
+                765,
+                576
+            ],
+            [
+                525,
+                576
+            ]
+        ],
+        "easyocr_text": "KatYAYANI",
+        "paddleocr_text": "KATYAYANI",
+        "confidence": 0.9946979880332947
+    },
+    {
+        "bounding_box": [
+            [
+                786,
+                534
+            ],
+            [
+                1074,
+                534
+            ],
+            [
+                1074,
+                579
+            ],
+            [
+                786,
+                579
+            ]
+        ],
+        "easyocr_text": "DEvaRAPALLI",
+        "paddleocr_text": "DEVARAPALLI",
+        "confidence": 0.9975845217704773
+    },
+    {
+        "bounding_box": [
+            [
+                1275,
+                540
+            ],
+            [
+                1332,
+                540
+            ],
+            [
+                1332,
+                579
+            ],
+            [
+                1275,
+                579
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "1A",
+        "confidence": 0.9498186111450195
+    },
+    {
+        "bounding_box": [
+            [
+                1404,
+                543
+            ],
+            [
+                1458,
+                543
+            ],
+            [
+                1458,
+                582
+            ],
+            [
+                1404,
+                582
+            ]
+        ],
+        "easyocr_text": "46",
+        "paddleocr_text": "46",
+        "confidence": 0.9810736775398254
+    },
+    {
+        "bounding_box": [
+            [
+                1740,
+                546
+            ],
+            [
+                1794,
+                546
+            ],
+            [
+                1794,
+                585
+            ],
+            [
+                1740,
+                585
+            ]
+        ],
+        "easyocr_text": "63",
+        "paddleocr_text": "63",
+        "confidence": 0.9965383410453796
+    },
+    {
+        "bounding_box": [
+            [
+                2079,
+                552
+            ],
+            [
+                2136,
+                552
+            ],
+            [
+                2136,
+                594
+            ],
+            [
+                2079,
+                594
+            ]
+        ],
+        "easyocr_text": "16",
+        "paddleocr_text": "16",
+        "confidence": 0.9939507246017456
+    },
+    {
+        "bounding_box": [
+            [
+                2415,
+                555
+            ],
+            [
+                2472,
+                555
+            ],
+            [
+                2472,
+                597
+            ],
+            [
+                2415,
+                597
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "14",
+        "confidence": 0.9932577013969421
+    },
+    {
+        "bounding_box": [
+            [
+                2754,
+                561
+            ],
+            [
+                2814,
+                561
+            ],
+            [
+                2814,
+                606
+            ],
+            [
+                2754,
+                606
+            ]
+        ],
+        "easyocr_text": "13",
+        "paddleocr_text": "13",
+        "confidence": 0.9991480112075806
+    },
+    {
+        "bounding_box": [
+            [
+                3096,
+                570
+            ],
+            [
+                3156,
+                570
+            ],
+            [
+                3156,
+                612
+            ],
+            [
+                3096,
+                612
+            ]
+        ],
+        "easyocr_text": "1 0",
+        "paddleocr_text": "10",
+        "confidence": 0.998227596282959
+    },
+    {
+        "bounding_box": [
+            [
+                3384,
+                573
+            ],
+            [
+                3471,
+                573
+            ],
+            [
+                3471,
+                618
+            ],
+            [
+                3384,
+                618
+            ]
+        ],
+        "easyocr_text": "162",
+        "paddleocr_text": "162",
+        "confidence": 0.99647456407547
+    },
+    {
+        "bounding_box": [
+            [
+                3524,
+                584
+            ],
+            [
+                3544,
+                584
+            ],
+            [
+                3544,
+                613
+            ],
+            [
+                3524,
+                613
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9401372635380909
+    },
+    {
+        "bounding_box": [
+            [
+                1401,
+                669
+            ],
+            [
+                1452,
+                669
+            ],
+            [
+                1452,
+                711
+            ],
+            [
+                1401,
+                711
+            ]
+        ],
+        "easyocr_text": "01",
+        "paddleocr_text": "01",
+        "confidence": 0.9913431406021118
+    },
+    {
+        "bounding_box": [
+            [
+                1740,
+                678
+            ],
+            [
+                1788,
+                678
+            ],
+            [
+                1788,
+                720
+            ],
+            [
+                1740,
+                720
+            ]
+        ],
+        "easyocr_text": "07",
+        "paddleocr_text": "07",
+        "confidence": 0.9999912334667646
+    },
+    {
+        "bounding_box": [
+            [
+                2076,
+                681
+            ],
+            [
+                2133,
+                681
+            ],
+            [
+                2133,
+                726
+            ],
+            [
+                2076,
+                726
+            ]
+        ],
+        "easyocr_text": "37",
+        "paddleocr_text": "3",
+        "confidence": 0.9982514977455139
+    },
+    {
+        "bounding_box": [
+            [
+                2415,
+                684
+            ],
+            [
+                2472,
+                684
+            ],
+            [
+                2472,
+                729
+            ],
+            [
+                2415,
+                729
+            ]
+        ],
+        "easyocr_text": "38",
+        "paddleocr_text": "38",
+        "confidence": 0.9965611696243286
+    },
+    {
+        "bounding_box": [
+            [
+                2755,
+                694
+            ],
+            [
+                2783,
+                694
+            ],
+            [
+                2783,
+                734
+            ],
+            [
+                2755,
+                734
+            ]
+        ],
+        "easyocr_text": "4",
+        "paddleocr_text": "4",
+        "confidence": 0.9998186908895867
+    },
+    {
+        "bounding_box": [
+            [
+                3093,
+                699
+            ],
+            [
+                3150,
+                699
+            ],
+            [
+                3150,
+                741
+            ],
+            [
+                3093,
+                741
+            ]
+        ],
+        "easyocr_text": "42",
+        "paddleocr_text": "42",
+        "confidence": 0.9965309500694275
+    },
+    {
+        "bounding_box": [
+            [
+                1402,
+                718
+            ],
+            [
+                1430,
+                718
+            ],
+            [
+                1430,
+                746
+            ],
+            [
+                1402,
+                746
+            ]
+        ],
+        "easyocr_text": "=",
+        "paddleocr_text": "=",
+        "confidence": 0.37912393146145007
+    },
+    {
+        "bounding_box": [
+            [
+                318,
+                782
+            ],
+            [
+                480,
+                782
+            ],
+            [
+                480,
+                827
+            ],
+            [
+                318,
+                827
+            ]
+        ],
+        "easyocr_text": "102493",
+        "paddleocr_text": "102493",
+        "confidence": 0.9966792464256287
+    },
+    {
+        "bounding_box": [
+            [
+                520,
+                783
+            ],
+            [
+                790,
+                783
+            ],
+            [
+                790,
+                836
+            ],
+            [
+                520,
+                836
+            ]
+        ],
+        "easyocr_text": "RUthSIgMon",
+        "paddleocr_text": "RUTHSIGMON",
+        "confidence": 0.9959179759025574
+    },
+    {
+        "bounding_box": [
+            [
+                804,
+                792
+            ],
+            [
+                990,
+                792
+            ],
+            [
+                990,
+                831
+            ],
+            [
+                804,
+                831
+            ]
+        ],
+        "easyocr_text": "chINNAM",
+        "paddleocr_text": "CHINNAM",
+        "confidence": 0.993924081325531
+    },
+    {
+        "bounding_box": [
+            [
+                1269,
+                798
+            ],
+            [
+                1326,
+                798
+            ],
+            [
+                1326,
+                837
+            ],
+            [
+                1269,
+                837
+            ]
+        ],
+        "easyocr_text": "1A",
+        "paddleocr_text": "1A",
+        "confidence": 0.9941767454147339
+    },
+    {
+        "bounding_box": [
+            [
+                1398,
+                801
+            ],
+            [
+                1479,
+                801
+            ],
+            [
+                1479,
+                840
+            ],
+            [
+                1398,
+                840
+            ]
+        ],
+        "easyocr_text": "40*",
+        "paddleocr_text": "40*",
+        "confidence": 0.8719604015350342
+    },
+    {
+        "bounding_box": [
+            [
+                1734,
+                804
+            ],
+            [
+                1815,
+                804
+            ],
+            [
+                1815,
+                846
+            ],
+            [
+                1734,
+                846
+            ]
+        ],
+        "easyocr_text": "35 *",
+        "paddleocr_text": "35*",
+        "confidence": 0.9703981280326843
+    },
+    {
+        "bounding_box": [
+            [
+                2073,
+                810
+            ],
+            [
+                2154,
+                810
+            ],
+            [
+                2154,
+                852
+            ],
+            [
+                2073,
+                852
+            ]
+        ],
+        "easyocr_text": "26 *",
+        "paddleocr_text": "26*",
+        "confidence": 0.9314690232276917
+    },
+    {
+        "bounding_box": [
+            [
+                2261,
+                821
+            ],
+            [
+                2281,
+                821
+            ],
+            [
+                2281,
+                850
+            ],
+            [
+                2261,
+                850
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.5753391283286113
+    },
+    {
+        "bounding_box": [
+            [
+                2412,
+                816
+            ],
+            [
+                2493,
+                816
+            ],
+            [
+                2493,
+                858
+            ],
+            [
+                2412,
+                858
+            ]
+        ],
+        "easyocr_text": "22 *",
+        "paddleocr_text": "22*",
+        "confidence": 0.8670271039009094
+    },
+    {
+        "bounding_box": [
+            [
+                2751,
+                822
+            ],
+            [
+                2802,
+                822
+            ],
+            [
+                2802,
+                864
+            ],
+            [
+                2751,
+                864
+            ]
+        ],
+        "easyocr_text": "41",
+        "paddleocr_text": "41",
+        "confidence": 0.9956799887896837
+    },
+    {
+        "bounding_box": [
+            [
+                2938,
+                832
+            ],
+            [
+                2963,
+                832
+            ],
+            [
+                2963,
+                866
+            ],
+            [
+                2938,
+                866
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7826064519945817
+    },
+    {
+        "bounding_box": [
+            [
+                3090,
+                828
+            ],
+            [
+                3171,
+                828
+            ],
+            [
+                3171,
+                870
+            ],
+            [
+                3090,
+                870
+            ]
+        ],
+        "easyocr_text": "22*",
+        "paddleocr_text": "22*",
+        "confidence": 0.9457980990409851
+    },
+    {
+        "bounding_box": [
+            [
+                3378,
+                834
+            ],
+            [
+                3465,
+                834
+            ],
+            [
+                3465,
+                879
+            ],
+            [
+                3378,
+                879
+            ]
+        ],
+        "easyocr_text": "186",
+        "paddleocr_text": "186",
+        "confidence": 0.9966134428977966
+    },
+    {
+        "bounding_box": [
+            [
+                3514,
+                844
+            ],
+            [
+                3539,
+                844
+            ],
+            [
+                3539,
+                875
+            ],
+            [
+                3514,
+                875
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.6367096005102582
+    },
+    {
+        "bounding_box": [
+            [
+                317,
+                866
+            ],
+            [
+                478,
+                866
+            ],
+            [
+                478,
+                916
+            ],
+            [
+                317,
+                916
+            ]
+        ],
+        "easyocr_text": "102494",
+        "paddleocr_text": "102494",
+        "confidence": 0.9954288601875305
+    },
+    {
+        "bounding_box": [
+            [
+                520,
+                869
+            ],
+            [
+                811,
+                869
+            ],
+            [
+                811,
+                923
+            ],
+            [
+                520,
+                923
+            ]
+        ],
+        "easyocr_text": "DAMMALAPATI",
+        "paddleocr_text": "DAMMALAPATI",
+        "confidence": 0.9974818825721741
+    },
+    {
+        "bounding_box": [
+            [
+                836,
+                884
+            ],
+            [
+                856,
+                884
+            ],
+            [
+                856,
+                913
+            ],
+            [
+                836,
+                913
+            ]
+        ],
+        "easyocr_text": "V",
+        "paddleocr_text": "V",
+        "confidence": 0.91096435631529
+    },
+    {
+        "bounding_box": [
+            [
+                886,
+                886
+            ],
+            [
+                911,
+                886
+            ],
+            [
+                911,
+                917
+            ],
+            [
+                886,
+                917
+            ]
+        ],
+        "easyocr_text": "R",
+        "paddleocr_text": "R",
+        "confidence": 0.9993253892344569
+    },
+    {
+        "bounding_box": [
+            [
+                930,
+                879
+            ],
+            [
+                1116,
+                879
+            ],
+            [
+                1116,
+                921
+            ],
+            [
+                930,
+                921
+            ]
+        ],
+        "easyocr_text": "LAKSHMI",
+        "paddleocr_text": "LAKSHMI",
+        "confidence": 0.9970211982727051
+    },
+    {
+        "bounding_box": [
+            [
+                1269,
+                885
+            ],
+            [
+                1326,
+                885
+            ],
+            [
+                1326,
+                927
+            ],
+            [
+                1269,
+                927
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "1A",
+        "confidence": 0.9913727045059204
+    },
+    {
+        "bounding_box": [
+            [
+                1395,
+                885
+            ],
+            [
+                1479,
+                885
+            ],
+            [
+                1479,
+                930
+            ],
+            [
+                1395,
+                930
+            ]
+        ],
+        "easyocr_text": "35*",
+        "paddleocr_text": "35*",
+        "confidence": 0.9299973845481873
+    },
+    {
+        "bounding_box": [
+            [
+                1734,
+                891
+            ],
+            [
+                1815,
+                891
+            ],
+            [
+                1815,
+                933
+            ],
+            [
+                1734,
+                933
+            ]
+        ],
+        "easyocr_text": "35*",
+        "paddleocr_text": "35*",
+        "confidence": 0.9230343699455261
+    },
+    {
+        "bounding_box": [
+            [
+                2073,
+                897
+            ],
+            [
+                2154,
+                897
+            ],
+            [
+                2154,
+                939
+            ],
+            [
+                2073,
+                939
+            ]
+        ],
+        "easyocr_text": "23*",
+        "paddleocr_text": "23*",
+        "confidence": 0.8367159962654114
+    },
+    {
+        "bounding_box": [
+            [
+                2254,
+                904
+            ],
+            [
+                2282,
+                904
+            ],
+            [
+                2282,
+                941
+            ],
+            [
+                2254,
+                941
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8957379202175595
+    },
+    {
+        "bounding_box": [
+            [
+                2409,
+                903
+            ],
+            [
+                2469,
+                903
+            ],
+            [
+                2469,
+                948
+            ],
+            [
+                2409,
+                948
+            ]
+        ],
+        "easyocr_text": "27",
+        "paddleocr_text": "N",
+        "confidence": 0.8900277614593506
+    },
+    {
+        "bounding_box": [
+            [
+                2751,
+                909
+            ],
+            [
+                2808,
+                909
+            ],
+            [
+                2808,
+                954
+            ],
+            [
+                2751,
+                954
+            ]
+        ],
+        "easyocr_text": "26",
+        "paddleocr_text": "26",
+        "confidence": 0.9931565523147583
+    },
+    {
+        "bounding_box": [
+            [
+                2931,
+                915
+            ],
+            [
+                2967,
+                915
+            ],
+            [
+                2967,
+                963
+            ],
+            [
+                2931,
+                963
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9402989149093628
+    },
+    {
+        "bounding_box": [
+            [
+                3087,
+                915
+            ],
+            [
+                3144,
+                915
+            ],
+            [
+                3144,
+                957
+            ],
+            [
+                3087,
+                957
+            ]
+        ],
+        "easyocr_text": "33",
+        "paddleocr_text": "33",
+        "confidence": 0.9991604089736938
+    },
+    {
+        "bounding_box": [
+            [
+                3378,
+                921
+            ],
+            [
+                3462,
+                921
+            ],
+            [
+                3462,
+                966
+            ],
+            [
+                3378,
+                966
+            ]
+        ],
+        "easyocr_text": "179",
+        "paddleocr_text": "179",
+        "confidence": 0.9983671307563782
+    },
+    {
+        "bounding_box": [
+            [
+                318,
+                954
+            ],
+            [
+                477,
+                954
+            ],
+            [
+                477,
+                999
+            ],
+            [
+                318,
+                999
+            ]
+        ],
+        "easyocr_text": "102496",
+        "paddleocr_text": "102490",
+        "confidence": 0.9830743670463562
+    },
+    {
+        "bounding_box": [
+            [
+                522,
+                960
+            ],
+            [
+                807,
+                960
+            ],
+            [
+                807,
+                1005
+            ],
+            [
+                522,
+                1005
+            ]
+        ],
+        "easyocr_text": "DEVANASOINA",
+        "paddleocr_text": "DEVANABOINA",
+        "confidence": 0.9777022004127502
+    },
+    {
+        "bounding_box": [
+            [
+                826,
+                959
+            ],
+            [
+                988,
+                959
+            ],
+            [
+                988,
+                1007
+            ],
+            [
+                826,
+                1007
+            ]
+        ],
+        "easyocr_text": "JyothI",
+        "paddleocr_text": "JYOTHI",
+        "confidence": 0.9964984059333801
+    },
+    {
+        "bounding_box": [
+            [
+                1266,
+                969
+            ],
+            [
+                1323,
+                969
+            ],
+            [
+                1323,
+                1011
+            ],
+            [
+                1266,
+                1011
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "1A",
+        "confidence": 0.9954939484596252
+    },
+    {
+        "bounding_box": [
+            [
+                1395,
+                972
+            ],
+            [
+                1476,
+                972
+            ],
+            [
+                1476,
+                1011
+            ],
+            [
+                1395,
+                1011
+            ]
+        ],
+        "easyocr_text": "61 *",
+        "paddleocr_text": "61*",
+        "confidence": 0.9601669311523438
+    },
+    {
+        "bounding_box": [
+            [
+                1579,
+                979
+            ],
+            [
+                1604,
+                979
+            ],
+            [
+                1604,
+                1016
+            ],
+            [
+                1579,
+                1016
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8016789097584933
+    },
+    {
+        "bounding_box": [
+            [
+                1731,
+                978
+            ],
+            [
+                1812,
+                978
+            ],
+            [
+                1812,
+                1017
+            ],
+            [
+                1731,
+                1017
+            ]
+        ],
+        "easyocr_text": "70 *",
+        "paddleocr_text": "70*",
+        "confidence": 0.964177131652832
+    },
+    {
+        "bounding_box": [
+            [
+                2070,
+                984
+            ],
+            [
+                2151,
+                984
+            ],
+            [
+                2151,
+                1026
+            ],
+            [
+                2070,
+                1026
+            ]
+        ],
+        "easyocr_text": "31 *",
+        "paddleocr_text": "31*",
+        "confidence": 0.9119616150856018
+    },
+    {
+        "bounding_box": [
+            [
+                2251,
+                988
+            ],
+            [
+                2282,
+                988
+            ],
+            [
+                2282,
+                1028
+            ],
+            [
+                2251,
+                1028
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9547907166285405
+    },
+    {
+        "bounding_box": [
+            [
+                2409,
+                990
+            ],
+            [
+                2490,
+                990
+            ],
+            [
+                2490,
+                1032
+            ],
+            [
+                2409,
+                1032
+            ]
+        ],
+        "easyocr_text": "30*",
+        "paddleocr_text": "30*",
+        "confidence": 0.9652590751647949
+    },
+    {
+        "bounding_box": [
+            [
+                2597,
+                998
+            ],
+            [
+                2617,
+                998
+            ],
+            [
+                2617,
+                1030
+            ],
+            [
+                2597,
+                1030
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.4394499637674585
+    },
+    {
+        "bounding_box": [
+            [
+                2748,
+                996
+            ],
+            [
+                2805,
+                996
+            ],
+            [
+                2805,
+                1041
+            ],
+            [
+                2748,
+                1041
+            ]
+        ],
+        "easyocr_text": "40",
+        "paddleocr_text": "40",
+        "confidence": 0.99737548828125
+    },
+    {
+        "bounding_box": [
+            [
+                2932,
+                997
+            ],
+            [
+                2963,
+                997
+            ],
+            [
+                2963,
+                1046
+            ],
+            [
+                2932,
+                1046
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.927375853061676
+    },
+    {
+        "bounding_box": [
+            [
+                3087,
+                1002
+            ],
+            [
+                3168,
+                1002
+            ],
+            [
+                3168,
+                1044
+            ],
+            [
+                3087,
+                1044
+            ]
+        ],
+        "easyocr_text": "25 *",
+        "paddleocr_text": "25*",
+        "confidence": 0.9393419623374939
+    },
+    {
+        "bounding_box": [
+            [
+                3375,
+                1008
+            ],
+            [
+                3459,
+                1008
+            ],
+            [
+                3459,
+                1053
+            ],
+            [
+                3375,
+                1053
+            ]
+        ],
+        "easyocr_text": "257",
+        "paddleocr_text": "2",
+        "confidence": 0.9420166015625
+    },
+    {
+        "bounding_box": [
+            [
+                314,
+                1037
+            ],
+            [
+                475,
+                1037
+            ],
+            [
+                475,
+                1087
+            ],
+            [
+                314,
+                1087
+            ]
+        ],
+        "easyocr_text": "102497",
+        "paddleocr_text": "102497",
+        "confidence": 0.9966617226600647
+    },
+    {
+        "bounding_box": [
+            [
+                522,
+                1044
+            ],
+            [
+                657,
+                1044
+            ],
+            [
+                657,
+                1089
+            ],
+            [
+                522,
+                1089
+            ]
+        ],
+        "easyocr_text": "SHAIk",
+        "paddleocr_text": "SHAIK",
+        "confidence": 0.9982059597969055
+    },
+    {
+        "bounding_box": [
+            [
+                675,
+                1046
+            ],
+            [
+                885,
+                1046
+            ],
+            [
+                885,
+                1091
+            ],
+            [
+                675,
+                1091
+            ]
+        ],
+        "easyocr_text": "SHAKEELA",
+        "paddleocr_text": "SHAKEELA",
+        "confidence": 0.9972766637802124
+    },
+    {
+        "bounding_box": [
+            [
+                1266,
+                1056
+            ],
+            [
+                1323,
+                1056
+            ],
+            [
+                1323,
+                1101
+            ],
+            [
+                1266,
+                1101
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "1A",
+        "confidence": 0.9919904470443726
+    },
+    {
+        "bounding_box": [
+            [
+                1392,
+                1059
+            ],
+            [
+                1476,
+                1059
+            ],
+            [
+                1476,
+                1098
+            ],
+            [
+                1392,
+                1098
+            ]
+        ],
+        "easyocr_text": "36*",
+        "paddleocr_text": "36*",
+        "confidence": 0.9117557406425476
+    },
+    {
+        "bounding_box": [
+            [
+                1576,
+                1063
+            ],
+            [
+                1604,
+                1063
+            ],
+            [
+                1604,
+                1100
+            ],
+            [
+                1576,
+                1100
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8050131685001958
+    },
+    {
+        "bounding_box": [
+            [
+                2067,
+                1068
+            ],
+            [
+                2127,
+                1068
+            ],
+            [
+                2127,
+                1113
+            ],
+            [
+                2067,
+                1113
+            ]
+        ],
+        "easyocr_text": "25",
+        "paddleocr_text": "25",
+        "confidence": 0.9976674318313599
+    },
+    {
+        "bounding_box": [
+            [
+                2251,
+                1072
+            ],
+            [
+                2282,
+                1072
+            ],
+            [
+                2282,
+                1115
+            ],
+            [
+                2251,
+                1115
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9269147968638123
+    },
+    {
+        "bounding_box": [
+            [
+                2406,
+                1077
+            ],
+            [
+                2466,
+                1077
+            ],
+            [
+                2466,
+                1119
+            ],
+            [
+                2406,
+                1119
+            ]
+        ],
+        "easyocr_text": "25",
+        "paddleocr_text": "23",
+        "confidence": 0.9982261657714844
+    },
+    {
+        "bounding_box": [
+            [
+                2590,
+                1081
+            ],
+            [
+                2618,
+                1081
+            ],
+            [
+                2618,
+                1118
+            ],
+            [
+                2590,
+                1118
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8315714729674397
+    },
+    {
+        "bounding_box": [
+            [
+                2745,
+                1083
+            ],
+            [
+                2802,
+                1083
+            ],
+            [
+                2802,
+                1128
+            ],
+            [
+                2745,
+                1128
+            ]
+        ],
+        "easyocr_text": "30",
+        "paddleocr_text": "30",
+        "confidence": 0.9977275133132935
+    },
+    {
+        "bounding_box": [
+            [
+                2929,
+                1081
+            ],
+            [
+                2960,
+                1081
+            ],
+            [
+                2960,
+                1127
+            ],
+            [
+                2929,
+                1127
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8121423109614092
+    },
+    {
+        "bounding_box": [
+            [
+                3084,
+                1089
+            ],
+            [
+                3144,
+                1089
+            ],
+            [
+                3144,
+                1134
+            ],
+            [
+                3084,
+                1134
+            ]
+        ],
+        "easyocr_text": "28",
+        "paddleocr_text": "28",
+        "confidence": 0.9969098567962646
+    },
+    {
+        "bounding_box": [
+            [
+                3372,
+                1095
+            ],
+            [
+                3456,
+                1095
+            ],
+            [
+                3456,
+                1140
+            ],
+            [
+                3372,
+                1140
+            ]
+        ],
+        "easyocr_text": "191",
+        "paddleocr_text": "191",
+        "confidence": 0.9980559349060059
+    },
+    {
+        "bounding_box": [
+            [
+                314,
+                1124
+            ],
+            [
+                475,
+                1124
+            ],
+            [
+                475,
+                1174
+            ],
+            [
+                314,
+                1174
+            ]
+        ],
+        "easyocr_text": "102499",
+        "paddleocr_text": "102499",
+        "confidence": 0.996161162853241
+    },
+    {
+        "bounding_box": [
+            [
+                527,
+                1139
+            ],
+            [
+                547,
+                1139
+            ],
+            [
+                547,
+                1165
+            ],
+            [
+                527,
+                1165
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.15140155848838788
+    },
+    {
+        "bounding_box": [
+            [
+                569,
+                1130
+            ],
+            [
+                854,
+                1130
+            ],
+            [
+                854,
+                1175
+            ],
+            [
+                569,
+                1175
+            ]
+        ],
+        "easyocr_text": "PUShPALAthA",
+        "paddleocr_text": "PUSHPALATHA",
+        "confidence": 0.9969912171363831
+    },
+    {
+        "bounding_box": [
+            [
+                1263,
+                1143
+            ],
+            [
+                1320,
+                1143
+            ],
+            [
+                1320,
+                1182
+            ],
+            [
+                1263,
+                1182
+            ]
+        ],
+        "easyocr_text": "1A",
+        "paddleocr_text": "1A",
+        "confidence": 0.9867483377456665
+    },
+    {
+        "bounding_box": [
+            [
+                1392,
+                1143
+            ],
+            [
+                1449,
+                1143
+            ],
+            [
+                1449,
+                1188
+            ],
+            [
+                1392,
+                1188
+            ]
+        ],
+        "easyocr_text": "60",
+        "paddleocr_text": "60",
+        "confidence": 0.9919784069061279
+    },
+    {
+        "bounding_box": [
+            [
+                1573,
+                1150
+            ],
+            [
+                1601,
+                1150
+            ],
+            [
+                1601,
+                1187
+            ],
+            [
+                1573,
+                1187
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9330336326129327
+    },
+    {
+        "bounding_box": [
+            [
+                1728,
+                1149
+            ],
+            [
+                1809,
+                1149
+            ],
+            [
+                1809,
+                1191
+            ],
+            [
+                1728,
+                1191
+            ]
+        ],
+        "easyocr_text": "66 *",
+        "paddleocr_text": "66*",
+        "confidence": 0.961331844329834
+    },
+    {
+        "bounding_box": [
+            [
+                2064,
+                1155
+            ],
+            [
+                2148,
+                1155
+            ],
+            [
+                2148,
+                1197
+            ],
+            [
+                2064,
+                1197
+            ]
+        ],
+        "easyocr_text": "24*",
+        "paddleocr_text": "24*",
+        "confidence": 0.893113911151886
+    },
+    {
+        "bounding_box": [
+            [
+                2251,
+                1165
+            ],
+            [
+                2276,
+                1165
+            ],
+            [
+                2276,
+                1196
+            ],
+            [
+                2251,
+                1196
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "-",
+        "confidence": 0.5808761119842529
+    },
+    {
+        "bounding_box": [
+            [
+                2406,
+                1161
+            ],
+            [
+                2463,
+                1161
+            ],
+            [
+                2463,
+                1206
+            ],
+            [
+                2406,
+                1206
+            ]
+        ],
+        "easyocr_text": "22",
+        "paddleocr_text": "22",
+        "confidence": 0.9978680610656738
+    },
+    {
+        "bounding_box": [
+            [
+                2745,
+                1170
+            ],
+            [
+                2796,
+                1170
+            ],
+            [
+                2796,
+                1209
+            ],
+            [
+                2745,
+                1209
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "14",
+        "confidence": 0.9991264919073153
+    },
+    {
+        "bounding_box": [
+            [
+                3081,
+                1176
+            ],
+            [
+                3141,
+                1176
+            ],
+            [
+                3141,
+                1218
+            ],
+            [
+                3081,
+                1218
+            ]
+        ],
+        "easyocr_text": "1 8",
+        "paddleocr_text": "18",
+        "confidence": 0.9975665807723999
+    },
+    {
+        "bounding_box": [
+            [
+                3275,
+                1187
+            ],
+            [
+                3295,
+                1187
+            ],
+            [
+                3295,
+                1213
+            ],
+            [
+                3275,
+                1213
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.48673575355957155
+    },
+    {
+        "bounding_box": [
+            [
+                3369,
+                1182
+            ],
+            [
+                3456,
+                1182
+            ],
+            [
+                3456,
+                1227
+            ],
+            [
+                3369,
+                1227
+            ]
+        ],
+        "easyocr_text": "204",
+        "paddleocr_text": "204",
+        "confidence": 0.9985958933830261
+    },
+    {
+        "bounding_box": [
+            [
+                312,
+                1212
+            ],
+            [
+                471,
+                1212
+            ],
+            [
+                471,
+                1257
+            ],
+            [
+                312,
+                1257
+            ]
+        ],
+        "easyocr_text": "102501",
+        "paddleocr_text": "102501",
+        "confidence": 0.9979502558708191
+    },
+    {
+        "bounding_box": [
+            [
+                514,
+                1213
+            ],
+            [
+                880,
+                1213
+            ],
+            [
+                880,
+                1266
+            ],
+            [
+                514,
+                1266
+            ]
+        ],
+        "easyocr_text": "RAVELAVEERAMMA",
+        "paddleocr_text": "RAVELAVEERAMMA",
+        "confidence": 0.9971142411231995
+    },
+    {
+        "bounding_box": [
+            [
+                1263,
+                1227
+            ],
+            [
+                1320,
+                1227
+            ],
+            [
+                1320,
+                1269
+            ],
+            [
+                1263,
+                1269
+            ]
+        ],
+        "easyocr_text": "14",
+        "paddleocr_text": "1A",
+        "confidence": 0.9834786653518677
+    },
+    {
+        "bounding_box": [
+            [
+                1389,
+                1230
+            ],
+            [
+                1470,
+                1230
+            ],
+            [
+                1470,
+                1269
+            ],
+            [
+                1389,
+                1269
+            ]
+        ],
+        "easyocr_text": "36*",
+        "paddleocr_text": "36*",
+        "confidence": 0.9171848297119141
+    },
+    {
+        "bounding_box": [
+            [
+                1577,
+                1241
+            ],
+            [
+                1597,
+                1241
+            ],
+            [
+                1597,
+                1270
+            ],
+            [
+                1577,
+                1270
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.46660783769711145
+    },
+    {
+        "bounding_box": [
+            [
+                1725,
+                1236
+            ],
+            [
+                1809,
+                1236
+            ],
+            [
+                1809,
+                1275
+            ],
+            [
+                1725,
+                1275
+            ]
+        ],
+        "easyocr_text": "46*",
+        "paddleocr_text": "46*",
+        "confidence": 0.8661105632781982
+    },
+    {
+        "bounding_box": [
+            [
+                2064,
+                1242
+            ],
+            [
+                2118,
+                1242
+            ],
+            [
+                2118,
+                1287
+            ],
+            [
+                2064,
+                1287
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9934543967247009
+    },
+    {
+        "bounding_box": [
+            [
+                2403,
+                1248
+            ],
+            [
+                2457,
+                1248
+            ],
+            [
+                2457,
+                1293
+            ],
+            [
+                2403,
+                1293
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9973233938217163
+    },
+    {
+        "bounding_box": [
+            [
+                2742,
+                1254
+            ],
+            [
+                2802,
+                1254
+            ],
+            [
+                2802,
+                1299
+            ],
+            [
+                2742,
+                1299
+            ]
+        ],
+        "easyocr_text": "23",
+        "paddleocr_text": "23",
+        "confidence": 0.9986859560012817
+    },
+    {
+        "bounding_box": [
+            [
+                3081,
+                1263
+            ],
+            [
+                3138,
+                1263
+            ],
+            [
+                3138,
+                1302
+            ],
+            [
+                3081,
+                1302
+            ]
+        ],
+        "easyocr_text": "1 8",
+        "paddleocr_text": "18",
+        "confidence": 0.9974663257598877
+    },
+    {
+        "bounding_box": [
+            [
+                3365,
+                1265
+            ],
+            [
+                3457,
+                1265
+            ],
+            [
+                3457,
+                1315
+            ],
+            [
+                3365,
+                1315
+            ]
+        ],
+        "easyocr_text": "165",
+        "paddleocr_text": "165",
+        "confidence": 0.9960851073265076
+    },
+    {
+        "bounding_box": [
+            [
+                1388,
+                1364
+            ],
+            [
+                1444,
+                1364
+            ],
+            [
+                1444,
+                1441
+            ],
+            [
+                1388,
+                1441
+            ]
+        ],
+        "easyocr_text": "01",
+        "paddleocr_text": "01",
+        "confidence": 0.9923373460769653
+    },
+    {
+        "bounding_box": [
+            [
+                1722,
+                1371
+            ],
+            [
+                1779,
+                1371
+            ],
+            [
+                1779,
+                1410
+            ],
+            [
+                1722,
+                1410
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "03",
+        "confidence": 0.9955578446388245
+    },
+    {
+        "bounding_box": [
+            [
+                2061,
+                1377
+            ],
+            [
+                2118,
+                1377
+            ],
+            [
+                2118,
+                1422
+            ],
+            [
+                2061,
+                1422
+            ]
+        ],
+        "easyocr_text": "37",
+        "paddleocr_text": "3",
+        "confidence": 0.9975408315658569
+    },
+    {
+        "bounding_box": [
+            [
+                2400,
+                1383
+            ],
+            [
+                2457,
+                1383
+            ],
+            [
+                2457,
+                1425
+            ],
+            [
+                2400,
+                1425
+            ]
+        ],
+        "easyocr_text": "38",
+        "paddleocr_text": "38",
+        "confidence": 0.9972302317619324
+    },
+    {
+        "bounding_box": [
+            [
+                2742,
+                1392
+            ],
+            [
+                2790,
+                1392
+            ],
+            [
+                2790,
+                1431
+            ],
+            [
+                2742,
+                1431
+            ]
+        ],
+        "easyocr_text": "41",
+        "paddleocr_text": "41",
+        "confidence": 0.38108239923738463
+    },
+    {
+        "bounding_box": [
+            [
+                3078,
+                1398
+            ],
+            [
+                3135,
+                1398
+            ],
+            [
+                3135,
+                1440
+            ],
+            [
+                3078,
+                1440
+            ]
+        ],
+        "easyocr_text": "42",
+        "paddleocr_text": "4",
+        "confidence": 0.9494812488555908
+    },
+    {
+        "bounding_box": [
+            [
+                2066,
+                1430
+            ],
+            [
+                2110,
+                1430
+            ],
+            [
+                2110,
+                1450
+            ],
+            [
+                2066,
+                1450
+            ]
+        ],
+        "easyocr_text": "32",
+        "paddleocr_text": "32",
+        "confidence": 0.8418824780291075
+    },
+    {
+        "bounding_box": [
+            [
+                2405,
+                1436
+            ],
+            [
+                2449,
+                1436
+            ],
+            [
+                2449,
+                1456
+            ],
+            [
+                2405,
+                1456
+            ]
+        ],
+        "easyocr_text": "3E",
+        "paddleocr_text": "3E",
+        "confidence": 0.10213960864842597
+    },
+    {
+        "bounding_box": [
+            [
+                2740,
+                1438
+            ],
+            [
+                2768,
+                1438
+            ],
+            [
+                2768,
+                1466
+            ],
+            [
+                2740,
+                1466
+            ]
+        ],
+        "easyocr_text": "2",
+        "paddleocr_text": "2",
+        "confidence": 0.340247106677063
+    },
+    {
+        "bounding_box": [
+            [
+                309,
+                1470
+            ],
+            [
+                468,
+                1470
+            ],
+            [
+                468,
+                1515
+            ],
+            [
+                309,
+                1515
+            ]
+        ],
+        "easyocr_text": "102504",
+        "paddleocr_text": "102504",
+        "confidence": 0.9979469776153564
+    },
+    {
+        "bounding_box": [
+            [
+                512,
+                1474
+            ],
+            [
+                802,
+                1474
+            ],
+            [
+                802,
+                1526
+            ],
+            [
+                512,
+                1526
+            ]
+        ],
+        "easyocr_text": "LAKSHMIRAJU",
+        "paddleocr_text": "LAKSHMIRAJU",
+        "confidence": 0.9952893853187561
+    },
+    {
+        "bounding_box": [
+            [
+                818,
+                1482
+            ],
+            [
+                1028,
+                1482
+            ],
+            [
+                1028,
+                1527
+            ],
+            [
+                818,
+                1527
+            ]
+        ],
+        "easyocr_text": "BHARGAVI",
+        "paddleocr_text": "BHARGAVI",
+        "confidence": 0.9973196983337402
+    },
+    {
+        "bounding_box": [
+            [
+                1257,
+                1488
+            ],
+            [
+                1311,
+                1488
+            ],
+            [
+                1311,
+                1530
+            ],
+            [
+                1257,
+                1530
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.985684335231781
+    },
+    {
+        "bounding_box": [
+            [
+                1386,
+                1491
+            ],
+            [
+                1467,
+                1491
+            ],
+            [
+                1467,
+                1533
+            ],
+            [
+                1386,
+                1533
+            ]
+        ],
+        "easyocr_text": "41*",
+        "paddleocr_text": "41*",
+        "confidence": 0.925449550151825
+    },
+    {
+        "bounding_box": [
+            [
+                2058,
+                1503
+            ],
+            [
+                2118,
+                1503
+            ],
+            [
+                2118,
+                1548
+            ],
+            [
+                2058,
+                1548
+            ]
+        ],
+        "easyocr_text": "23",
+        "paddleocr_text": "23",
+        "confidence": 0.9988518953323364
+    },
+    {
+        "bounding_box": [
+            [
+                2246,
+                1517
+            ],
+            [
+                2266,
+                1517
+            ],
+            [
+                2266,
+                1543
+            ],
+            [
+                2246,
+                1543
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.4992990737350489
+    },
+    {
+        "bounding_box": [
+            [
+                2394,
+                1509
+            ],
+            [
+                2451,
+                1509
+            ],
+            [
+                2451,
+                1551
+            ],
+            [
+                2394,
+                1551
+            ]
+        ],
+        "easyocr_text": "07",
+        "paddleocr_text": "07",
+        "confidence": 0.9762195348739624
+    },
+    {
+        "bounding_box": [
+            [
+                2736,
+                1518
+            ],
+            [
+                2787,
+                1518
+            ],
+            [
+                2787,
+                1560
+            ],
+            [
+                2736,
+                1560
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9937605857849121
+    },
+    {
+        "bounding_box": [
+            [
+                2923,
+                1528
+            ],
+            [
+                2948,
+                1528
+            ],
+            [
+                2948,
+                1559
+            ],
+            [
+                2923,
+                1559
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7541227656227001
+    },
+    {
+        "bounding_box": [
+            [
+                3075,
+                1524
+            ],
+            [
+                3126,
+                1524
+            ],
+            [
+                3126,
+                1563
+            ],
+            [
+                3075,
+                1563
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9917401075363159
+    },
+    {
+        "bounding_box": [
+            [
+                3262,
+                1534
+            ],
+            [
+                3287,
+                1534
+            ],
+            [
+                3287,
+                1565
+            ],
+            [
+                3262,
+                1565
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.6501026520782602
+    },
+    {
+        "bounding_box": [
+            [
+                3360,
+                1530
+            ],
+            [
+                3447,
+                1530
+            ],
+            [
+                3447,
+                1575
+            ],
+            [
+                3360,
+                1575
+            ]
+        ],
+        "easyocr_text": "182",
+        "paddleocr_text": "182",
+        "confidence": 0.9989823698997498
+    },
+    {
+        "bounding_box": [
+            [
+                215,
+                1559
+            ],
+            [
+                235,
+                1559
+            ],
+            [
+                235,
+                1591
+            ],
+            [
+                215,
+                1591
+            ]
+        ],
+        "easyocr_text": "E",
+        "paddleocr_text": "E",
+        "confidence": 0.7248505271609815
+    },
+    {
+        "bounding_box": [
+            [
+                308,
+                1553
+            ],
+            [
+                472,
+                1553
+            ],
+            [
+                472,
+                1603
+            ],
+            [
+                308,
+                1603
+            ]
+        ],
+        "easyocr_text": "102505",
+        "paddleocr_text": "102505",
+        "confidence": 0.9971650242805481
+    },
+    {
+        "bounding_box": [
+            [
+                521,
+                1568
+            ],
+            [
+                541,
+                1568
+            ],
+            [
+                541,
+                1594
+            ],
+            [
+                521,
+                1594
+            ]
+        ],
+        "easyocr_text": "N",
+        "paddleocr_text": "N",
+        "confidence": 0.9951664346786515
+    },
+    {
+        "bounding_box": [
+            [
+                567,
+                1563
+            ],
+            [
+                849,
+                1563
+            ],
+            [
+                849,
+                1605
+            ],
+            [
+                567,
+                1605
+            ]
+        ],
+        "easyocr_text": "ARUNAKUMARI",
+        "paddleocr_text": "ARUNAKUMARI",
+        "confidence": 0.9968203902244568
+    },
+    {
+        "bounding_box": [
+            [
+                1257,
+                1575
+            ],
+            [
+                1314,
+                1575
+            ],
+            [
+                1314,
+                1614
+            ],
+            [
+                1257,
+                1614
+            ]
+        ],
+        "easyocr_text": "1 E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9830495715141296
+    },
+    {
+        "bounding_box": [
+            [
+                1386,
+                1578
+            ],
+            [
+                1437,
+                1578
+            ],
+            [
+                1437,
+                1617
+            ],
+            [
+                1386,
+                1617
+            ]
+        ],
+        "easyocr_text": "41",
+        "paddleocr_text": "41",
+        "confidence": 0.9079382419586182
+    },
+    {
+        "bounding_box": [
+            [
+                1567,
+                1582
+            ],
+            [
+                1595,
+                1582
+            ],
+            [
+                1595,
+                1619
+            ],
+            [
+                1567,
+                1619
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8421088421181508
+    },
+    {
+        "bounding_box": [
+            [
+                1722,
+                1584
+            ],
+            [
+                1803,
+                1584
+            ],
+            [
+                1803,
+                1623
+            ],
+            [
+                1722,
+                1623
+            ]
+        ],
+        "easyocr_text": "57 *",
+        "paddleocr_text": "57*",
+        "confidence": 0.8762569427490234
+    },
+    {
+        "bounding_box": [
+            [
+                1910,
+                1592
+            ],
+            [
+                1930,
+                1592
+            ],
+            [
+                1930,
+                1621
+            ],
+            [
+                1910,
+                1621
+            ]
+        ],
+        "easyocr_text": "p",
+        "paddleocr_text": "p",
+        "confidence": 0.3289183589919311
+    },
+    {
+        "bounding_box": [
+            [
+                2058,
+                1587
+            ],
+            [
+                2112,
+                1587
+            ],
+            [
+                2112,
+                1632
+            ],
+            [
+                2058,
+                1632
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9929397702217102
+    },
+    {
+        "bounding_box": [
+            [
+                2242,
+                1594
+            ],
+            [
+                2270,
+                1594
+            ],
+            [
+                2270,
+                1634
+            ],
+            [
+                2242,
+                1634
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9850438833236694
+    },
+    {
+        "bounding_box": [
+            [
+                2397,
+                1596
+            ],
+            [
+                2451,
+                1596
+            ],
+            [
+                2451,
+                1635
+            ],
+            [
+                2397,
+                1635
+            ]
+        ],
+        "easyocr_text": "06",
+        "paddleocr_text": "06",
+        "confidence": 0.9996968090356415
+    },
+    {
+        "bounding_box": [
+            [
+                2733,
+                1602
+            ],
+            [
+                2790,
+                1602
+            ],
+            [
+                2790,
+                1644
+            ],
+            [
+                2733,
+                1644
+            ]
+        ],
+        "easyocr_text": "12",
+        "paddleocr_text": "12",
+        "confidence": 0.9980719089508057
+    },
+    {
+        "bounding_box": [
+            [
+                3072,
+                1608
+            ],
+            [
+                3132,
+                1608
+            ],
+            [
+                3132,
+                1653
+            ],
+            [
+                3072,
+                1653
+            ]
+        ],
+        "easyocr_text": "06",
+        "paddleocr_text": "06",
+        "confidence": 0.9817970991134644
+    },
+    {
+        "bounding_box": [
+            [
+                3360,
+                1614
+            ],
+            [
+                3447,
+                1614
+            ],
+            [
+                3447,
+                1659
+            ],
+            [
+                3360,
+                1659
+            ]
+        ],
+        "easyocr_text": "143",
+        "paddleocr_text": "143",
+        "confidence": 0.9985042214393616
+    },
+    {
+        "bounding_box": [
+            [
+                211,
+                1642
+            ],
+            [
+                236,
+                1642
+            ],
+            [
+                236,
+                1682
+            ],
+            [
+                211,
+                1682
+            ]
+        ],
+        "easyocr_text": "E",
+        "paddleocr_text": "E",
+        "confidence": 0.925799334540045
+    },
+    {
+        "bounding_box": [
+            [
+                309,
+                1641
+            ],
+            [
+                468,
+                1641
+            ],
+            [
+                468,
+                1686
+            ],
+            [
+                309,
+                1686
+            ]
+        ],
+        "easyocr_text": "102500",
+        "paddleocr_text": "102500",
+        "confidence": 0.9457642436027527
+    },
+    {
+        "bounding_box": [
+            [
+                511,
+                1645
+            ],
+            [
+                748,
+                1645
+            ],
+            [
+                748,
+                1695
+            ],
+            [
+                511,
+                1695
+            ]
+        ],
+        "easyocr_text": "Vinnakota",
+        "paddleocr_text": "VINNAKOTA",
+        "confidence": 0.9904719591140747
+    },
+    {
+        "bounding_box": [
+            [
+                768,
+                1653
+            ],
+            [
+                948,
+                1653
+            ],
+            [
+                948,
+                1695
+            ],
+            [
+                768,
+                1695
+            ]
+        ],
+        "easyocr_text": "SRIdEVI",
+        "paddleocr_text": "SRIDEVI",
+        "confidence": 0.9929139018058777
+    },
+    {
+        "bounding_box": [
+            [
+                1257,
+                1662
+            ],
+            [
+                1311,
+                1662
+            ],
+            [
+                1311,
+                1701
+            ],
+            [
+                1257,
+                1701
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9919900894165039
+    },
+    {
+        "bounding_box": [
+            [
+                1383,
+                1665
+            ],
+            [
+                1464,
+                1665
+            ],
+            [
+                1464,
+                1704
+            ],
+            [
+                1383,
+                1704
+            ]
+        ],
+        "easyocr_text": "52*",
+        "paddleocr_text": "52*",
+        "confidence": 0.9440382122993469
+    },
+    {
+        "bounding_box": [
+            [
+                1570,
+                1669
+            ],
+            [
+                1595,
+                1669
+            ],
+            [
+                1595,
+                1706
+            ],
+            [
+                1570,
+                1706
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.5418432365355876
+    },
+    {
+        "bounding_box": [
+            [
+                1719,
+                1671
+            ],
+            [
+                1800,
+                1671
+            ],
+            [
+                1800,
+                1710
+            ],
+            [
+                1719,
+                1710
+            ]
+        ],
+        "easyocr_text": "68 *",
+        "paddleocr_text": "68*",
+        "confidence": 0.8960428237915039
+    },
+    {
+        "bounding_box": [
+            [
+                1903,
+                1675
+            ],
+            [
+                1934,
+                1675
+            ],
+            [
+                1934,
+                1715
+            ],
+            [
+                1903,
+                1715
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9791553616523743
+    },
+    {
+        "bounding_box": [
+            [
+                2058,
+                1677
+            ],
+            [
+                2115,
+                1677
+            ],
+            [
+                2115,
+                1722
+            ],
+            [
+                2058,
+                1722
+            ]
+        ],
+        "easyocr_text": "24",
+        "paddleocr_text": "24",
+        "confidence": 0.9981367588043213
+    },
+    {
+        "bounding_box": [
+            [
+                2239,
+                1678
+            ],
+            [
+                2270,
+                1678
+            ],
+            [
+                2270,
+                1727
+            ],
+            [
+                2239,
+                1727
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9591086506843567
+    },
+    {
+        "bounding_box": [
+            [
+                2397,
+                1683
+            ],
+            [
+                2445,
+                1683
+            ],
+            [
+                2445,
+                1725
+            ],
+            [
+                2397,
+                1725
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9635372757911682
+    },
+    {
+        "bounding_box": [
+            [
+                2733,
+                1689
+            ],
+            [
+                2784,
+                1689
+            ],
+            [
+                2784,
+                1731
+            ],
+            [
+                2733,
+                1731
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9974760413169861
+    },
+    {
+        "bounding_box": [
+            [
+                2917,
+                1690
+            ],
+            [
+                2948,
+                1690
+            ],
+            [
+                2948,
+                1736
+            ],
+            [
+                2917,
+                1736
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.899344570296364
+    },
+    {
+        "bounding_box": [
+            [
+                3069,
+                1698
+            ],
+            [
+                3129,
+                1698
+            ],
+            [
+                3129,
+                1737
+            ],
+            [
+                3069,
+                1737
+            ]
+        ],
+        "easyocr_text": "13",
+        "paddleocr_text": "13",
+        "confidence": 0.9961771965026855
+    },
+    {
+        "bounding_box": [
+            [
+                3360,
+                1701
+            ],
+            [
+                3444,
+                1701
+            ],
+            [
+                3444,
+                1746
+            ],
+            [
+                3360,
+                1746
+            ]
+        ],
+        "easyocr_text": "199",
+        "paddleocr_text": "199",
+        "confidence": 0.9974821209907532
+    },
+    {
+        "bounding_box": [
+            [
+                215,
+                1733
+            ],
+            [
+                235,
+                1733
+            ],
+            [
+                235,
+                1771
+            ],
+            [
+                215,
+                1771
+            ]
+        ],
+        "easyocr_text": "E",
+        "paddleocr_text": "E",
+        "confidence": 0.37017491389987356
+    },
+    {
+        "bounding_box": [
+            [
+                309,
+                1731
+            ],
+            [
+                468,
+                1731
+            ],
+            [
+                468,
+                1776
+            ],
+            [
+                309,
+                1776
+            ]
+        ],
+        "easyocr_text": "102507",
+        "paddleocr_text": "102507",
+        "confidence": 0.9980564713478088
+    },
+    {
+        "bounding_box": [
+            [
+                511,
+                1732
+            ],
+            [
+                823,
+                1732
+            ],
+            [
+                823,
+                1787
+            ],
+            [
+                511,
+                1787
+            ]
+        ],
+        "easyocr_text": "PADMASRIDEVI",
+        "paddleocr_text": "PADMASRIDEVI",
+        "confidence": 0.9974587559700012
+    },
+    {
+        "bounding_box": [
+            [
+                840,
+                1735
+            ],
+            [
+                1007,
+                1735
+            ],
+            [
+                1007,
+                1791
+            ],
+            [
+                840,
+                1791
+            ]
+        ],
+        "easyocr_text": "MAdALA",
+        "paddleocr_text": "MADALA",
+        "confidence": 0.9976935982704163
+    },
+    {
+        "bounding_box": [
+            [
+                1257,
+                1749
+            ],
+            [
+                1314,
+                1749
+            ],
+            [
+                1314,
+                1794
+            ],
+            [
+                1257,
+                1794
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9848496913909912
+    },
+    {
+        "bounding_box": [
+            [
+                1383,
+                1752
+            ],
+            [
+                1464,
+                1752
+            ],
+            [
+                1464,
+                1791
+            ],
+            [
+                1383,
+                1791
+            ]
+        ],
+        "easyocr_text": "48*",
+        "paddleocr_text": "48*",
+        "confidence": 0.9366758465766907
+    },
+    {
+        "bounding_box": [
+            [
+                1564,
+                1759
+            ],
+            [
+                1592,
+                1759
+            ],
+            [
+                1592,
+                1796
+            ],
+            [
+                1564,
+                1796
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9084593095284532
+    },
+    {
+        "bounding_box": [
+            [
+                1719,
+                1761
+            ],
+            [
+                1800,
+                1761
+            ],
+            [
+                1800,
+                1800
+            ],
+            [
+                1719,
+                1800
+            ]
+        ],
+        "easyocr_text": "35 *",
+        "paddleocr_text": "35*",
+        "confidence": 0.8840062022209167
+    },
+    {
+        "bounding_box": [
+            [
+                1903,
+                1756
+            ],
+            [
+                1934,
+                1756
+            ],
+            [
+                1934,
+                1808
+            ],
+            [
+                1903,
+                1808
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9828419089317322
+    },
+    {
+        "bounding_box": [
+            [
+                2055,
+                1764
+            ],
+            [
+                2112,
+                1764
+            ],
+            [
+                2112,
+                1809
+            ],
+            [
+                2055,
+                1809
+            ]
+        ],
+        "easyocr_text": "15",
+        "paddleocr_text": "15",
+        "confidence": 0.9951444268226624
+    },
+    {
+        "bounding_box": [
+            [
+                2239,
+                1762
+            ],
+            [
+                2270,
+                1762
+            ],
+            [
+                2270,
+                1811
+            ],
+            [
+                2239,
+                1811
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9931113719940186
+    },
+    {
+        "bounding_box": [
+            [
+                2394,
+                1773
+            ],
+            [
+                2445,
+                1773
+            ],
+            [
+                2445,
+                1815
+            ],
+            [
+                2394,
+                1815
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9900583028793335
+    },
+    {
+        "bounding_box": [
+            [
+                2730,
+                1779
+            ],
+            [
+                2787,
+                1779
+            ],
+            [
+                2787,
+                1821
+            ],
+            [
+                2730,
+                1821
+            ]
+        ],
+        "easyocr_text": "06",
+        "paddleocr_text": "06",
+        "confidence": 0.929502546787262
+    },
+    {
+        "bounding_box": [
+            [
+                2913,
+                1773
+            ],
+            [
+                2952,
+                1773
+            ],
+            [
+                2952,
+                1821
+            ],
+            [
+                2913,
+                1821
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9960532188415527
+    },
+    {
+        "bounding_box": [
+            [
+                3069,
+                1785
+            ],
+            [
+                3129,
+                1785
+            ],
+            [
+                3129,
+                1830
+            ],
+            [
+                3069,
+                1830
+            ]
+        ],
+        "easyocr_text": "10",
+        "paddleocr_text": "10",
+        "confidence": 0.9974591732025146
+    },
+    {
+        "bounding_box": [
+            [
+                3357,
+                1791
+            ],
+            [
+                3441,
+                1791
+            ],
+            [
+                3441,
+                1836
+            ],
+            [
+                3357,
+                1836
+            ]
+        ],
+        "easyocr_text": "135",
+        "paddleocr_text": "135",
+        "confidence": 0.9989917874336243
+    },
+    {
+        "bounding_box": [
+            [
+                3494,
+                1802
+            ],
+            [
+                3514,
+                1802
+            ],
+            [
+                3514,
+                1828
+            ],
+            [
+                3494,
+                1828
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.6489350645797778
+    },
+    {
+        "bounding_box": [
+            [
+                306,
+                1812
+            ],
+            [
+                468,
+                1812
+            ],
+            [
+                468,
+                1857
+            ],
+            [
+                306,
+                1857
+            ]
+        ],
+        "easyocr_text": "102508",
+        "paddleocr_text": "102508",
+        "confidence": 0.9972653985023499
+    },
+    {
+        "bounding_box": [
+            [
+                517,
+                1822
+            ],
+            [
+                542,
+                1822
+            ],
+            [
+                542,
+                1853
+            ],
+            [
+                517,
+                1853
+            ]
+        ],
+        "easyocr_text": "T",
+        "paddleocr_text": "T",
+        "confidence": 0.9563398753732635
+    },
+    {
+        "bounding_box": [
+            [
+                558,
+                1815
+            ],
+            [
+                719,
+                1815
+            ],
+            [
+                719,
+                1863
+            ],
+            [
+                558,
+                1863
+            ]
+        ],
+        "easyocr_text": "INDIRa",
+        "paddleocr_text": "INDIRA",
+        "confidence": 0.9983553886413574
+    },
+    {
+        "bounding_box": [
+            [
+                741,
+                1823
+            ],
+            [
+                1050,
+                1823
+            ],
+            [
+                1050,
+                1865
+            ],
+            [
+                741,
+                1865
+            ]
+        ],
+        "easyocr_text": "PRIYadARSInI",
+        "paddleocr_text": "PRIYADARSINI",
+        "confidence": 0.9965887069702148
+    },
+    {
+        "bounding_box": [
+            [
+                1254,
+                1833
+            ],
+            [
+                1311,
+                1833
+            ],
+            [
+                1311,
+                1872
+            ],
+            [
+                1254,
+                1872
+            ]
+        ],
+        "easyocr_text": "2E",
+        "paddleocr_text": "2E",
+        "confidence": 0.9915680885314941
+    },
+    {
+        "bounding_box": [
+            [
+                1383,
+                1833
+            ],
+            [
+                1461,
+                1833
+            ],
+            [
+                1461,
+                1875
+            ],
+            [
+                1383,
+                1875
+            ]
+        ],
+        "easyocr_text": "66 *",
+        "paddleocr_text": "66*",
+        "confidence": 0.922398567199707
+    },
+    {
+        "bounding_box": [
+            [
+                1564,
+                1843
+            ],
+            [
+                1589,
+                1843
+            ],
+            [
+                1589,
+                1877
+            ],
+            [
+                1564,
+                1877
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8412556743299184
+    },
+    {
+        "bounding_box": [
+            [
+                1716,
+                1842
+            ],
+            [
+                1797,
+                1842
+            ],
+            [
+                1797,
+                1881
+            ],
+            [
+                1716,
+                1881
+            ]
+        ],
+        "easyocr_text": "55*",
+        "paddleocr_text": "55*",
+        "confidence": 0.9392346739768982
+    },
+    {
+        "bounding_box": [
+            [
+                1900,
+                1843
+            ],
+            [
+                1931,
+                1843
+            ],
+            [
+                1931,
+                1886
+            ],
+            [
+                1900,
+                1886
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.809305735645026
+    },
+    {
+        "bounding_box": [
+            [
+                2055,
+                1848
+            ],
+            [
+                2133,
+                1848
+            ],
+            [
+                2133,
+                1890
+            ],
+            [
+                2055,
+                1890
+            ]
+        ],
+        "easyocr_text": "38 *",
+        "paddleocr_text": "38*",
+        "confidence": 0.9650383591651917
+    },
+    {
+        "bounding_box": [
+            [
+                2236,
+                1849
+            ],
+            [
+                2264,
+                1849
+            ],
+            [
+                2264,
+                1895
+            ],
+            [
+                2236,
+                1895
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8486874790418284
+    },
+    {
+        "bounding_box": [
+            [
+                2394,
+                1857
+            ],
+            [
+                2445,
+                1857
+            ],
+            [
+                2445,
+                1896
+            ],
+            [
+                2394,
+                1896
+            ]
+        ],
+        "easyocr_text": "49",
+        "paddleocr_text": "49",
+        "confidence": 0.9997540398525214
+    },
+    {
+        "bounding_box": [
+            [
+                2730,
+                1860
+            ],
+            [
+                2811,
+                1860
+            ],
+            [
+                2811,
+                1902
+            ],
+            [
+                2730,
+                1902
+            ]
+        ],
+        "easyocr_text": "28*",
+        "paddleocr_text": "28*",
+        "confidence": 0.8837793469429016
+    },
+    {
+        "bounding_box": [
+            [
+                2911,
+                1861
+            ],
+            [
+                2942,
+                1861
+            ],
+            [
+                2942,
+                1904
+            ],
+            [
+                2911,
+                1904
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "DL",
+        "confidence": 0.5922802686691284
+    },
+    {
+        "bounding_box": [
+            [
+                3066,
+                1869
+            ],
+            [
+                3147,
+                1869
+            ],
+            [
+                3147,
+                1908
+            ],
+            [
+                3066,
+                1908
+            ]
+        ],
+        "easyocr_text": "28 *",
+        "paddleocr_text": "28*",
+        "confidence": 0.93611079454422
+    },
+    {
+        "bounding_box": [
+            [
+                3353,
+                1871
+            ],
+            [
+                3439,
+                1871
+            ],
+            [
+                3439,
+                1921
+            ],
+            [
+                3353,
+                1921
+            ]
+        ],
+        "easyocr_text": "264",
+        "paddleocr_text": "264",
+        "confidence": 0.9946709275245667
+    },
+    {
+        "bounding_box": [
+            [
+                3491,
+                1883
+            ],
+            [
+                3511,
+                1883
+            ],
+            [
+                3511,
+                1912
+            ],
+            [
+                3491,
+                1912
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.4253077532679441
+    },
+    {
+        "bounding_box": [
+            [
+                306,
+                1899
+            ],
+            [
+                465,
+                1899
+            ],
+            [
+                465,
+                1944
+            ],
+            [
+                306,
+                1944
+            ]
+        ],
+        "easyocr_text": "102509",
+        "paddleocr_text": "102509",
+        "confidence": 0.9982139468193054
+    },
+    {
+        "bounding_box": [
+            [
+                509,
+                1902
+            ],
+            [
+                666,
+                1902
+            ],
+            [
+                666,
+                1947
+            ],
+            [
+                509,
+                1947
+            ]
+        ],
+        "easyocr_text": "DASARI",
+        "paddleocr_text": "DASARI",
+        "confidence": 0.9977850317955017
+    },
+    {
+        "bounding_box": [
+            [
+                685,
+                1905
+            ],
+            [
+                922,
+                1905
+            ],
+            [
+                922,
+                1954
+            ],
+            [
+                685,
+                1954
+            ]
+        ],
+        "easyocr_text": "VIJayAsRI",
+        "paddleocr_text": "VIJAYASRI",
+        "confidence": 0.9944348931312561
+    },
+    {
+        "bounding_box": [
+            [
+                1251,
+                1920
+            ],
+            [
+                1308,
+                1920
+            ],
+            [
+                1308,
+                1959
+            ],
+            [
+                1251,
+                1959
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9829225540161133
+    },
+    {
+        "bounding_box": [
+            [
+                1380,
+                1920
+            ],
+            [
+                1437,
+                1920
+            ],
+            [
+                1437,
+                1965
+            ],
+            [
+                1380,
+                1965
+            ]
+        ],
+        "easyocr_text": "22",
+        "paddleocr_text": "22",
+        "confidence": 0.9982972145080566
+    },
+    {
+        "bounding_box": [
+            [
+                1713,
+                1929
+            ],
+            [
+                1797,
+                1929
+            ],
+            [
+                1797,
+                1968
+            ],
+            [
+                1713,
+                1968
+            ]
+        ],
+        "easyocr_text": "55 *",
+        "paddleocr_text": "55*",
+        "confidence": 0.9169978499412537
+    },
+    {
+        "bounding_box": [
+            [
+                1896,
+                1929
+            ],
+            [
+                1932,
+                1929
+            ],
+            [
+                1932,
+                1974
+            ],
+            [
+                1896,
+                1974
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7473801161140727
+    },
+    {
+        "bounding_box": [
+            [
+                2052,
+                1935
+            ],
+            [
+                2106,
+                1935
+            ],
+            [
+                2106,
+                1980
+            ],
+            [
+                2052,
+                1980
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9944995641708374
+    },
+    {
+        "bounding_box": [
+            [
+                2233,
+                1936
+            ],
+            [
+                2264,
+                1936
+            ],
+            [
+                2264,
+                1982
+            ],
+            [
+                2233,
+                1982
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9440763954121536
+    },
+    {
+        "bounding_box": [
+            [
+                2388,
+                1941
+            ],
+            [
+                2445,
+                1941
+            ],
+            [
+                2445,
+                1986
+            ],
+            [
+                2388,
+                1986
+            ]
+        ],
+        "easyocr_text": "05",
+        "paddleocr_text": "05",
+        "confidence": 0.9829720258712769
+    },
+    {
+        "bounding_box": [
+            [
+                2727,
+                1950
+            ],
+            [
+                2784,
+                1950
+            ],
+            [
+                2784,
+                1992
+            ],
+            [
+                2727,
+                1992
+            ]
+        ],
+        "easyocr_text": "15",
+        "paddleocr_text": "15",
+        "confidence": 0.9980441331863403
+    },
+    {
+        "bounding_box": [
+            [
+                2911,
+                1945
+            ],
+            [
+                2942,
+                1945
+            ],
+            [
+                2942,
+                1994
+            ],
+            [
+                2911,
+                1994
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9948722720146179
+    },
+    {
+        "bounding_box": [
+            [
+                3063,
+                1956
+            ],
+            [
+                3123,
+                1956
+            ],
+            [
+                3123,
+                2001
+            ],
+            [
+                3063,
+                2001
+            ]
+        ],
+        "easyocr_text": "08",
+        "paddleocr_text": "08",
+        "confidence": 0.9724701642990112
+    },
+    {
+        "bounding_box": [
+            [
+                3351,
+                1962
+            ],
+            [
+                3438,
+                1962
+            ],
+            [
+                3438,
+                2007
+            ],
+            [
+                3351,
+                2007
+            ]
+        ],
+        "easyocr_text": "126",
+        "paddleocr_text": "126",
+        "confidence": 0.9936928153038025
+    },
+    {
+        "bounding_box": [
+            [
+                302,
+                1982
+            ],
+            [
+                460,
+                1982
+            ],
+            [
+                460,
+                2032
+            ],
+            [
+                302,
+                2032
+            ]
+        ],
+        "easyocr_text": "102511",
+        "paddleocr_text": "102511",
+        "confidence": 0.9974700808525085
+    },
+    {
+        "bounding_box": [
+            [
+                508,
+                1987
+            ],
+            [
+                769,
+                1987
+            ],
+            [
+                769,
+                2040
+            ],
+            [
+                508,
+                2040
+            ]
+        ],
+        "easyocr_text": "AMbAtIPUDI",
+        "paddleocr_text": "AMBATIPUDI",
+        "confidence": 0.9655988812446594
+    },
+    {
+        "bounding_box": [
+            [
+                790,
+                2005
+            ],
+            [
+                815,
+                2005
+            ],
+            [
+                815,
+                2036
+            ],
+            [
+                790,
+                2036
+            ]
+        ],
+        "easyocr_text": "L",
+        "paddleocr_text": "L",
+        "confidence": 0.7681577106155579
+    },
+    {
+        "bounding_box": [
+            [
+                838,
+                1994
+            ],
+            [
+                1024,
+                1994
+            ],
+            [
+                1024,
+                2045
+            ],
+            [
+                838,
+                2045
+            ]
+        ],
+        "easyocr_text": "PADMAJA",
+        "paddleocr_text": "PADMAJA",
+        "confidence": 0.9962253570556641
+    },
+    {
+        "bounding_box": [
+            [
+                1251,
+                2007
+            ],
+            [
+                1308,
+                2007
+            ],
+            [
+                1308,
+                2046
+            ],
+            [
+                1251,
+                2046
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9893908500671387
+    },
+    {
+        "bounding_box": [
+            [
+                1377,
+                2010
+            ],
+            [
+                1434,
+                2010
+            ],
+            [
+                1434,
+                2049
+            ],
+            [
+                1377,
+                2049
+            ]
+        ],
+        "easyocr_text": "42",
+        "paddleocr_text": "42",
+        "confidence": 0.9982341527938843
+    },
+    {
+        "bounding_box": [
+            [
+                1710,
+                2016
+            ],
+            [
+                1794,
+                2016
+            ],
+            [
+                1794,
+                2055
+            ],
+            [
+                1710,
+                2055
+            ]
+        ],
+        "easyocr_text": "58 *",
+        "paddleocr_text": "58*",
+        "confidence": 0.937974750995636
+    },
+    {
+        "bounding_box": [
+            [
+                1894,
+                2017
+            ],
+            [
+                1925,
+                2017
+            ],
+            [
+                1925,
+                2057
+            ],
+            [
+                1894,
+                2057
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9532351319717556
+    },
+    {
+        "bounding_box": [
+            [
+                2049,
+                2022
+            ],
+            [
+                2103,
+                2022
+            ],
+            [
+                2103,
+                2067
+            ],
+            [
+                2049,
+                2067
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9919412732124329
+    },
+    {
+        "bounding_box": [
+            [
+                2233,
+                2023
+            ],
+            [
+                2264,
+                2023
+            ],
+            [
+                2264,
+                2069
+            ],
+            [
+                2233,
+                2069
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "OL",
+        "confidence": 0.5322481393814087
+    },
+    {
+        "bounding_box": [
+            [
+                2388,
+                2031
+            ],
+            [
+                2442,
+                2031
+            ],
+            [
+                2442,
+                2070
+            ],
+            [
+                2388,
+                2070
+            ]
+        ],
+        "easyocr_text": "1 4",
+        "paddleocr_text": "14",
+        "confidence": 0.9953936338424683
+    },
+    {
+        "bounding_box": [
+            [
+                2724,
+                2037
+            ],
+            [
+                2781,
+                2037
+            ],
+            [
+                2781,
+                2082
+            ],
+            [
+                2724,
+                2082
+            ]
+        ],
+        "easyocr_text": "16",
+        "paddleocr_text": "16",
+        "confidence": 0.9927012920379639
+    },
+    {
+        "bounding_box": [
+            [
+                2907,
+                2031
+            ],
+            [
+                2943,
+                2031
+            ],
+            [
+                2943,
+                2088
+            ],
+            [
+                2907,
+                2088
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9944987893104553
+    },
+    {
+        "bounding_box": [
+            [
+                3063,
+                2043
+            ],
+            [
+                3120,
+                2043
+            ],
+            [
+                3120,
+                2085
+            ],
+            [
+                3063,
+                2085
+            ]
+        ],
+        "easyocr_text": "12",
+        "paddleocr_text": "12",
+        "confidence": 0.9985593557357788
+    },
+    {
+        "bounding_box": [
+            [
+                3348,
+                2049
+            ],
+            [
+                3435,
+                2049
+            ],
+            [
+                3435,
+                2094
+            ],
+            [
+                3348,
+                2094
+            ]
+        ],
+        "easyocr_text": "163",
+        "paddleocr_text": "163",
+        "confidence": 0.9980419278144836
+    },
+    {
+        "bounding_box": [
+            [
+                303,
+                2067
+            ],
+            [
+                464,
+                2067
+            ],
+            [
+                464,
+                2121
+            ],
+            [
+                303,
+                2121
+            ]
+        ],
+        "easyocr_text": "102512",
+        "paddleocr_text": "102512",
+        "confidence": 0.9982655644416809
+    },
+    {
+        "bounding_box": [
+            [
+                510,
+                2079
+            ],
+            [
+                816,
+                2079
+            ],
+            [
+                816,
+                2124
+            ],
+            [
+                510,
+                2124
+            ]
+        ],
+        "easyocr_text": "SIDDABATHINI",
+        "paddleocr_text": "SIDDABATHINI",
+        "confidence": 0.9965360164642334
+    },
+    {
+        "bounding_box": [
+            [
+                835,
+                2082
+            ],
+            [
+                1048,
+                2082
+            ],
+            [
+                1048,
+                2130
+            ],
+            [
+                835,
+                2130
+            ]
+        ],
+        "easyocr_text": "SREEdEVI",
+        "paddleocr_text": "SREEDEVI",
+        "confidence": 0.9943884611129761
+    },
+    {
+        "bounding_box": [
+            [
+                1248,
+                2094
+            ],
+            [
+                1305,
+                2094
+            ],
+            [
+                1305,
+                2133
+            ],
+            [
+                1248,
+                2133
+            ]
+        ],
+        "easyocr_text": "TE",
+        "paddleocr_text": "1E",
+        "confidence": 0.9684826731681824
+    },
+    {
+        "bounding_box": [
+            [
+                1377,
+                2094
+            ],
+            [
+                1458,
+                2094
+            ],
+            [
+                1458,
+                2136
+            ],
+            [
+                1377,
+                2136
+            ]
+        ],
+        "easyocr_text": "38*",
+        "paddleocr_text": "38*",
+        "confidence": 0.79119873046875
+    },
+    {
+        "bounding_box": [
+            [
+                1710,
+                2103
+            ],
+            [
+                1794,
+                2103
+            ],
+            [
+                1794,
+                2142
+            ],
+            [
+                1710,
+                2142
+            ]
+        ],
+        "easyocr_text": "L0*",
+        "paddleocr_text": "40*",
+        "confidence": 0.8718271255493164
+    },
+    {
+        "bounding_box": [
+            [
+                1897,
+                2110
+            ],
+            [
+                1922,
+                2110
+            ],
+            [
+                1922,
+                2141
+            ],
+            [
+                1897,
+                2141
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7974675350083658
+    },
+    {
+        "bounding_box": [
+            [
+                2046,
+                2109
+            ],
+            [
+                2106,
+                2109
+            ],
+            [
+                2106,
+                2154
+            ],
+            [
+                2046,
+                2154
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "0",
+        "confidence": 0.5593534708023071
+    },
+    {
+        "bounding_box": [
+            [
+                2233,
+                2107
+            ],
+            [
+                2264,
+                2107
+            ],
+            [
+                2264,
+                2153
+            ],
+            [
+                2233,
+                2153
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.7366117238998413
+    },
+    {
+        "bounding_box": [
+            [
+                2385,
+                2118
+            ],
+            [
+                2442,
+                2118
+            ],
+            [
+                2442,
+                2163
+            ],
+            [
+                2385,
+                2163
+            ]
+        ],
+        "easyocr_text": "05",
+        "paddleocr_text": "5",
+        "confidence": 0.9671632051467896
+    },
+    {
+        "bounding_box": [
+            [
+                2721,
+                2124
+            ],
+            [
+                2778,
+                2124
+            ],
+            [
+                2778,
+                2166
+            ],
+            [
+                2721,
+                2166
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "03",
+        "confidence": 0.9965782165527344
+    },
+    {
+        "bounding_box": [
+            [
+                2908,
+                2113
+            ],
+            [
+                2939,
+                2113
+            ],
+            [
+                2939,
+                2168
+            ],
+            [
+                2908,
+                2168
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.9969384670257568
+    },
+    {
+        "bounding_box": [
+            [
+                3060,
+                2133
+            ],
+            [
+                3117,
+                2133
+            ],
+            [
+                3117,
+                2172
+            ],
+            [
+                3060,
+                2172
+            ]
+        ],
+        "easyocr_text": "08",
+        "paddleocr_text": "08",
+        "confidence": 0.9535109996795654
+    },
+    {
+        "bounding_box": [
+            [
+                3345,
+                2136
+            ],
+            [
+                3432,
+                2136
+            ],
+            [
+                3432,
+                2181
+            ],
+            [
+                3345,
+                2181
+            ]
+        ],
+        "easyocr_text": "097",
+        "paddleocr_text": "097",
+        "confidence": 0.998207151889801
+    },
+    {
+        "bounding_box": [
+            [
+                300,
+                2150
+            ],
+            [
+                464,
+                2150
+            ],
+            [
+                464,
+                2205
+            ],
+            [
+                300,
+                2205
+            ]
+        ],
+        "easyocr_text": "102513",
+        "paddleocr_text": "102513",
+        "confidence": 0.9979909062385559
+    },
+    {
+        "bounding_box": [
+            [
+                552,
+                2157
+            ],
+            [
+                947,
+                2157
+            ],
+            [
+                947,
+                2217
+            ],
+            [
+                552,
+                2217
+            ]
+        ],
+        "easyocr_text": "NAGAMALLEshwARI",
+        "paddleocr_text": "NAGAMALLESHWARI",
+        "confidence": 0.9973913431167603
+    },
+    {
+        "bounding_box": [
+            [
+                1248,
+                2175
+            ],
+            [
+                1305,
+                2175
+            ],
+            [
+                1305,
+                2217
+            ],
+            [
+                1248,
+                2217
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9876193404197693
+    },
+    {
+        "bounding_box": [
+            [
+                1377,
+                2181
+            ],
+            [
+                1431,
+                2181
+            ],
+            [
+                1431,
+                2220
+            ],
+            [
+                1377,
+                2220
+            ]
+        ],
+        "easyocr_text": "49",
+        "paddleocr_text": "49",
+        "confidence": 0.999547372855559
+    },
+    {
+        "bounding_box": [
+            [
+                1710,
+                2187
+            ],
+            [
+                1791,
+                2187
+            ],
+            [
+                1791,
+                2229
+            ],
+            [
+                1710,
+                2229
+            ]
+        ],
+        "easyocr_text": "52*",
+        "paddleocr_text": "52*",
+        "confidence": 0.8747050762176514
+    },
+    {
+        "bounding_box": [
+            [
+                2046,
+                2193
+            ],
+            [
+                2103,
+                2193
+            ],
+            [
+                2103,
+                2238
+            ],
+            [
+                2046,
+                2238
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9978646039962769
+    },
+    {
+        "bounding_box": [
+            [
+                2233,
+                2200
+            ],
+            [
+                2258,
+                2200
+            ],
+            [
+                2258,
+                2237
+            ],
+            [
+                2233,
+                2237
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7958441760352777
+    },
+    {
+        "bounding_box": [
+            [
+                2385,
+                2202
+            ],
+            [
+                2442,
+                2202
+            ],
+            [
+                2442,
+                2247
+            ],
+            [
+                2385,
+                2247
+            ]
+        ],
+        "easyocr_text": "26",
+        "paddleocr_text": "2",
+        "confidence": 0.9979003667831421
+    },
+    {
+        "bounding_box": [
+            [
+                2721,
+                2208
+            ],
+            [
+                2778,
+                2208
+            ],
+            [
+                2778,
+                2253
+            ],
+            [
+                2721,
+                2253
+            ]
+        ],
+        "easyocr_text": "29",
+        "paddleocr_text": "2",
+        "confidence": 0.9934451580047607
+    },
+    {
+        "bounding_box": [
+            [
+                2905,
+                2212
+            ],
+            [
+                2933,
+                2212
+            ],
+            [
+                2933,
+                2249
+            ],
+            [
+                2905,
+                2249
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.8890725532816113
+    },
+    {
+        "bounding_box": [
+            [
+                3060,
+                2217
+            ],
+            [
+                3141,
+                2217
+            ],
+            [
+                3141,
+                2259
+            ],
+            [
+                3060,
+                2259
+            ]
+        ],
+        "easyocr_text": "21*",
+        "paddleocr_text": "21*",
+        "confidence": 0.9166216850280762
+    },
+    {
+        "bounding_box": [
+            [
+                3345,
+                2223
+            ],
+            [
+                3432,
+                2223
+            ],
+            [
+                3432,
+                2268
+            ],
+            [
+                3345,
+                2268
+            ]
+        ],
+        "easyocr_text": "198",
+        "paddleocr_text": "198",
+        "confidence": 0.9987841248512268
+    },
+    {
+        "bounding_box": [
+            [
+                3481,
+                2230
+            ],
+            [
+                3506,
+                2230
+            ],
+            [
+                3506,
+                2261
+            ],
+            [
+                3481,
+                2261
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.6949809567180729
+    },
+    {
+        "bounding_box": [
+            [
+                303,
+                2244
+            ],
+            [
+                462,
+                2244
+            ],
+            [
+                462,
+                2289
+            ],
+            [
+                303,
+                2289
+            ]
+        ],
+        "easyocr_text": "102514",
+        "paddleocr_text": "102514",
+        "confidence": 0.9977972507476807
+    },
+    {
+        "bounding_box": [
+            [
+                507,
+                2250
+            ],
+            [
+                636,
+                2250
+            ],
+            [
+                636,
+                2289
+            ],
+            [
+                507,
+                2289
+            ]
+        ],
+        "easyocr_text": "NaKKA",
+        "paddleocr_text": "NAKKA",
+        "confidence": 0.9941701889038086
+    },
+    {
+        "bounding_box": [
+            [
+                660,
+                2253
+            ],
+            [
+                816,
+                2253
+            ],
+            [
+                816,
+                2298
+            ],
+            [
+                660,
+                2298
+            ]
+        ],
+        "easyocr_text": "VIJAYA",
+        "paddleocr_text": "VIJAYA",
+        "confidence": 0.9937978386878967
+    },
+    {
+        "bounding_box": [
+            [
+                836,
+                2255
+            ],
+            [
+                1016,
+                2255
+            ],
+            [
+                1016,
+                2297
+            ],
+            [
+                836,
+                2297
+            ]
+        ],
+        "easyocr_text": "LAKSHMI",
+        "paddleocr_text": "LAKSHMI",
+        "confidence": 0.9966145753860474
+    },
+    {
+        "bounding_box": [
+            [
+                1248,
+                2265
+            ],
+            [
+                1302,
+                2265
+            ],
+            [
+                1302,
+                2304
+            ],
+            [
+                1248,
+                2304
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9784222841262817
+    },
+    {
+        "bounding_box": [
+            [
+                1374,
+                2268
+            ],
+            [
+                1431,
+                2268
+            ],
+            [
+                1431,
+                2307
+            ],
+            [
+                1374,
+                2307
+            ]
+        ],
+        "easyocr_text": "16",
+        "paddleocr_text": "16",
+        "confidence": 0.992394745349884
+    },
+    {
+        "bounding_box": [
+            [
+                1707,
+                2274
+            ],
+            [
+                1767,
+                2274
+            ],
+            [
+                1767,
+                2319
+            ],
+            [
+                1707,
+                2319
+            ]
+        ],
+        "easyocr_text": "25",
+        "paddleocr_text": "25",
+        "confidence": 0.9978247880935669
+    },
+    {
+        "bounding_box": [
+            [
+                2043,
+                2283
+            ],
+            [
+                2103,
+                2283
+            ],
+            [
+                2103,
+                2328
+            ],
+            [
+                2043,
+                2328
+            ]
+        ],
+        "easyocr_text": "02",
+        "paddleocr_text": "02",
+        "confidence": 0.9952142238616943
+    },
+    {
+        "bounding_box": [
+            [
+                2382,
+                2289
+            ],
+            [
+                2436,
+                2289
+            ],
+            [
+                2436,
+                2331
+            ],
+            [
+                2382,
+                2331
+            ]
+        ],
+        "easyocr_text": "04",
+        "paddleocr_text": "04",
+        "confidence": 0.6852522690532088
+    },
+    {
+        "bounding_box": [
+            [
+                2718,
+                2298
+            ],
+            [
+                2775,
+                2298
+            ],
+            [
+                2775,
+                2340
+            ],
+            [
+                2718,
+                2340
+            ]
+        ],
+        "easyocr_text": "02",
+        "paddleocr_text": "02",
+        "confidence": 0.9948887825012207
+    },
+    {
+        "bounding_box": [
+            [
+                3057,
+                2304
+            ],
+            [
+                3114,
+                2304
+            ],
+            [
+                3114,
+                2349
+            ],
+            [
+                3057,
+                2349
+            ]
+        ],
+        "easyocr_text": "00",
+        "paddleocr_text": "00",
+        "confidence": 0.950485348701477
+    },
+    {
+        "bounding_box": [
+            [
+                303,
+                2325
+            ],
+            [
+                462,
+                2325
+            ],
+            [
+                462,
+                2370
+            ],
+            [
+                303,
+                2370
+            ]
+        ],
+        "easyocr_text": "102515",
+        "paddleocr_text": "102515",
+        "confidence": 0.9971967339515686
+    },
+    {
+        "bounding_box": [
+            [
+                3342,
+                2310
+            ],
+            [
+                3429,
+                2310
+            ],
+            [
+                3429,
+                2355
+            ],
+            [
+                3342,
+                2355
+            ]
+        ],
+        "easyocr_text": "049",
+        "paddleocr_text": "049",
+        "confidence": 0.9970646500587463
+    },
+    {
+        "bounding_box": [
+            [
+                3482,
+                2318
+            ],
+            [
+                3502,
+                2318
+            ],
+            [
+                3502,
+                2347
+            ],
+            [
+                3482,
+                2347
+            ]
+        ],
+        "easyocr_text": "F",
+        "paddleocr_text": "F",
+        "confidence": 0.93791066075514
+    },
+    {
+        "bounding_box": [
+            [
+                502,
+                2329
+            ],
+            [
+                793,
+                2329
+            ],
+            [
+                793,
+                2382
+            ],
+            [
+                502,
+                2382
+            ]
+        ],
+        "easyocr_text": "MUDHAVATULA",
+        "paddleocr_text": "MUDHAVATULA",
+        "confidence": 0.9932917952537537
+    },
+    {
+        "bounding_box": [
+            [
+                811,
+                2341
+            ],
+            [
+                839,
+                2341
+            ],
+            [
+                839,
+                2375
+            ],
+            [
+                811,
+                2375
+            ]
+        ],
+        "easyocr_text": "V",
+        "paddleocr_text": "V",
+        "confidence": 0.8228196361811833
+    },
+    {
+        "bounding_box": [
+            [
+                862,
+                2344
+            ],
+            [
+                893,
+                2344
+            ],
+            [
+                893,
+                2378
+            ],
+            [
+                862,
+                2378
+            ]
+        ],
+        "easyocr_text": "L",
+        "paddleocr_text": "L",
+        "confidence": 0.9358569063948039
+    },
+    {
+        "bounding_box": [
+            [
+                913,
+                2344
+            ],
+            [
+                941,
+                2344
+            ],
+            [
+                941,
+                2378
+            ],
+            [
+                913,
+                2378
+            ]
+        ],
+        "easyocr_text": "K",
+        "paddleocr_text": "K",
+        "confidence": 0.7664293224945915
+    },
+    {
+        "bounding_box": [
+            [
+                961,
+                2339
+            ],
+            [
+                1171,
+                2339
+            ],
+            [
+                1171,
+                2387
+            ],
+            [
+                961,
+                2387
+            ]
+        ],
+        "easyocr_text": "DuRGabai",
+        "paddleocr_text": "DURGABAI",
+        "confidence": 0.994804322719574
+    },
+    {
+        "bounding_box": [
+            [
+                1248,
+                2349
+            ],
+            [
+                1305,
+                2349
+            ],
+            [
+                1305,
+                2391
+            ],
+            [
+                1248,
+                2391
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.992814838886261
+    },
+    {
+        "bounding_box": [
+            [
+                1374,
+                2349
+            ],
+            [
+                1431,
+                2349
+            ],
+            [
+                1431,
+                2394
+            ],
+            [
+                1374,
+                2394
+            ]
+        ],
+        "easyocr_text": "28",
+        "paddleocr_text": "28",
+        "confidence": 0.9956480264663696
+    },
+    {
+        "bounding_box": [
+            [
+                1707,
+                2358
+            ],
+            [
+                1788,
+                2358
+            ],
+            [
+                1788,
+                2400
+            ],
+            [
+                1707,
+                2400
+            ]
+        ],
+        "easyocr_text": "52*",
+        "paddleocr_text": "52*",
+        "confidence": 0.946491539478302
+    },
+    {
+        "bounding_box": [
+            [
+                2043,
+                2364
+            ],
+            [
+                2100,
+                2364
+            ],
+            [
+                2100,
+                2409
+            ],
+            [
+                2043,
+                2409
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "03",
+        "confidence": 0.9971568584442139
+    },
+    {
+        "bounding_box": [
+            [
+                2379,
+                2373
+            ],
+            [
+                2439,
+                2373
+            ],
+            [
+                2439,
+                2418
+            ],
+            [
+                2379,
+                2418
+            ]
+        ],
+        "easyocr_text": "00",
+        "paddleocr_text": "00",
+        "confidence": 0.9575194120407104
+    },
+    {
+        "bounding_box": [
+            [
+                2715,
+                2379
+            ],
+            [
+                2775,
+                2379
+            ],
+            [
+                2775,
+                2424
+            ],
+            [
+                2715,
+                2424
+            ]
+        ],
+        "easyocr_text": "02",
+        "paddleocr_text": "02",
+        "confidence": 0.9967978596687317
+    },
+    {
+        "bounding_box": [
+            [
+                303,
+                2412
+            ],
+            [
+                462,
+                2412
+            ],
+            [
+                462,
+                2457
+            ],
+            [
+                303,
+                2457
+            ]
+        ],
+        "easyocr_text": "102510",
+        "paddleocr_text": "102516",
+        "confidence": 0.9461665153503418
+    },
+    {
+        "bounding_box": [
+            [
+                512,
+                2426
+            ],
+            [
+                532,
+                2426
+            ],
+            [
+                532,
+                2455
+            ],
+            [
+                512,
+                2455
+            ]
+        ],
+        "easyocr_text": "E",
+        "paddleocr_text": "E",
+        "confidence": 0.0818776828063541
+    },
+    {
+        "bounding_box": [
+            [
+                554,
+                2418
+            ],
+            [
+                737,
+                2418
+            ],
+            [
+                737,
+                2460
+            ],
+            [
+                554,
+                2460
+            ]
+        ],
+        "easyocr_text": "VenKATA",
+        "paddleocr_text": "VENKATA",
+        "confidence": 0.996606171131134
+    },
+    {
+        "bounding_box": [
+            [
+                758,
+                2422
+            ],
+            [
+                915,
+                2422
+            ],
+            [
+                915,
+                2466
+            ],
+            [
+                758,
+                2466
+            ]
+        ],
+        "easyocr_text": "RAMANA",
+        "paddleocr_text": "RAMANA",
+        "confidence": 0.9980918765068054
+    },
+    {
+        "bounding_box": [
+            [
+                3339,
+                2394
+            ],
+            [
+                3429,
+                2394
+            ],
+            [
+                3429,
+                2439
+            ],
+            [
+                3339,
+                2439
+            ]
+        ],
+        "easyocr_text": "086",
+        "paddleocr_text": "086",
+        "confidence": 0.9920347332954407
+    },
+    {
+        "bounding_box": [
+            [
+                1245,
+                2433
+            ],
+            [
+                1305,
+                2433
+            ],
+            [
+                1305,
+                2478
+            ],
+            [
+                1245,
+                2478
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9886133670806885
+    },
+    {
+        "bounding_box": [
+            [
+                1374,
+                2436
+            ],
+            [
+                1452,
+                2436
+            ],
+            [
+                1452,
+                2475
+            ],
+            [
+                1374,
+                2475
+            ]
+        ],
+        "easyocr_text": "47 *",
+        "paddleocr_text": "47*",
+        "confidence": 0.87266606092453
+    },
+    {
+        "bounding_box": [
+            [
+                1707,
+                2445
+            ],
+            [
+                1788,
+                2445
+            ],
+            [
+                1788,
+                2484
+            ],
+            [
+                1707,
+                2484
+            ]
+        ],
+        "easyocr_text": "49 *",
+        "paddleocr_text": "0",
+        "confidence": 0.575286328792572
+    },
+    {
+        "bounding_box": [
+            [
+                2040,
+                2454
+            ],
+            [
+                2097,
+                2454
+            ],
+            [
+                2097,
+                2493
+            ],
+            [
+                2040,
+                2493
+            ]
+        ],
+        "easyocr_text": "13",
+        "paddleocr_text": "13",
+        "confidence": 0.9993537068367004
+    },
+    {
+        "bounding_box": [
+            [
+                2376,
+                2460
+            ],
+            [
+                2436,
+                2460
+            ],
+            [
+                2436,
+                2505
+            ],
+            [
+                2376,
+                2505
+            ]
+        ],
+        "easyocr_text": "05",
+        "paddleocr_text": "5",
+        "confidence": 0.9943321943283081
+    },
+    {
+        "bounding_box": [
+            [
+                2715,
+                2466
+            ],
+            [
+                2772,
+                2466
+            ],
+            [
+                2772,
+                2511
+            ],
+            [
+                2715,
+                2511
+            ]
+        ],
+        "easyocr_text": "04",
+        "paddleocr_text": "04",
+        "confidence": 0.9973384737968445
+    },
+    {
+        "bounding_box": [
+            [
+                3051,
+                2475
+            ],
+            [
+                3108,
+                2475
+            ],
+            [
+                3108,
+                2517
+            ],
+            [
+                3051,
+                2517
+            ]
+        ],
+        "easyocr_text": "03",
+        "paddleocr_text": "03",
+        "confidence": 0.9960648417472839
+    },
+    {
+        "bounding_box": [
+            [
+                3339,
+                2481
+            ],
+            [
+                3420,
+                2481
+            ],
+            [
+                3420,
+                2526
+            ],
+            [
+                3339,
+                2526
+            ]
+        ],
+        "easyocr_text": "121",
+        "paddleocr_text": "121",
+        "confidence": 0.9978484511375427
+    },
+    {
+        "bounding_box": [
+            [
+                300,
+                2496
+            ],
+            [
+                459,
+                2496
+            ],
+            [
+                459,
+                2541
+            ],
+            [
+                300,
+                2541
+            ]
+        ],
+        "easyocr_text": "102517",
+        "paddleocr_text": "102517",
+        "confidence": 0.9952378273010254
+    },
+    {
+        "bounding_box": [
+            [
+                503,
+                2500
+            ],
+            [
+                633,
+                2500
+            ],
+            [
+                633,
+                2544
+            ],
+            [
+                503,
+                2544
+            ]
+        ],
+        "easyocr_text": "PADMA",
+        "paddleocr_text": "PADMA",
+        "confidence": 0.9978289604187012
+    },
+    {
+        "bounding_box": [
+            [
+                655,
+                2502
+            ],
+            [
+                762,
+                2502
+            ],
+            [
+                762,
+                2547
+            ],
+            [
+                655,
+                2547
+            ]
+        ],
+        "easyocr_text": "KOTI",
+        "paddleocr_text": "KOTI",
+        "confidence": 0.9976174235343933
+    },
+    {
+        "bounding_box": [
+            [
+                781,
+                2504
+            ],
+            [
+                1015,
+                2504
+            ],
+            [
+                1015,
+                2555
+            ],
+            [
+                781,
+                2555
+            ]
+        ],
+        "easyocr_text": "KONDAMUDI",
+        "paddleocr_text": "KONDAMUDI",
+        "confidence": 0.99617999792099
+    },
+    {
+        "bounding_box": [
+            [
+                1245,
+                2517
+            ],
+            [
+                1302,
+                2517
+            ],
+            [
+                1302,
+                2562
+            ],
+            [
+                1245,
+                2562
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9903260469436646
+    },
+    {
+        "bounding_box": [
+            [
+                1371,
+                2520
+            ],
+            [
+                1425,
+                2520
+            ],
+            [
+                1425,
+                2559
+            ],
+            [
+                1371,
+                2559
+            ]
+        ],
+        "easyocr_text": "44",
+        "paddleocr_text": "44",
+        "confidence": 0.9932801127433777
+    },
+    {
+        "bounding_box": [
+            [
+                1552,
+                2527
+            ],
+            [
+                1580,
+                2527
+            ],
+            [
+                1580,
+                2567
+            ],
+            [
+                1552,
+                2567
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.7789955076264619
+    },
+    {
+        "bounding_box": [
+            [
+                1707,
+                2529
+            ],
+            [
+                1785,
+                2529
+            ],
+            [
+                1785,
+                2571
+            ],
+            [
+                1707,
+                2571
+            ]
+        ],
+        "easyocr_text": "55 *",
+        "paddleocr_text": "55*",
+        "confidence": 0.93521648645401
+    },
+    {
+        "bounding_box": [
+            [
+                2040,
+                2538
+            ],
+            [
+                2100,
+                2538
+            ],
+            [
+                2100,
+                2580
+            ],
+            [
+                2040,
+                2580
+            ]
+        ],
+        "easyocr_text": "13",
+        "paddleocr_text": "13",
+        "confidence": 0.998870849609375
+    },
+    {
+        "bounding_box": [
+            [
+                2376,
+                2544
+            ],
+            [
+                2433,
+                2544
+            ],
+            [
+                2433,
+                2586
+            ],
+            [
+                2376,
+                2586
+            ]
+        ],
+        "easyocr_text": "06",
+        "paddleocr_text": "06",
+        "confidence": 0.9777917861938477
+    },
+    {
+        "bounding_box": [
+            [
+                2715,
+                2553
+            ],
+            [
+                2769,
+                2553
+            ],
+            [
+                2769,
+                2598
+            ],
+            [
+                2715,
+                2598
+            ]
+        ],
+        "easyocr_text": "11",
+        "paddleocr_text": "11",
+        "confidence": 0.990639328956604
+    },
+    {
+        "bounding_box": [
+            [
+                3048,
+                2562
+            ],
+            [
+                3108,
+                2562
+            ],
+            [
+                3108,
+                2604
+            ],
+            [
+                3048,
+                2604
+            ]
+        ],
+        "easyocr_text": "05",
+        "paddleocr_text": "05",
+        "confidence": 0.9864439964294434
+    },
+    {
+        "bounding_box": [
+            [
+                300,
+                2580
+            ],
+            [
+                459,
+                2580
+            ],
+            [
+                459,
+                2625
+            ],
+            [
+                300,
+                2625
+            ]
+        ],
+        "easyocr_text": "102518",
+        "paddleocr_text": "102518",
+        "confidence": 0.9978696703910828
+    },
+    {
+        "bounding_box": [
+            [
+                502,
+                2582
+            ],
+            [
+                742,
+                2582
+            ],
+            [
+                742,
+                2635
+            ],
+            [
+                502,
+                2635
+            ]
+        ],
+        "easyocr_text": "KOTTAMASU",
+        "paddleocr_text": "KOTTAMASU",
+        "confidence": 0.9963821768760681
+    },
+    {
+        "bounding_box": [
+            [
+                757,
+                2589
+            ],
+            [
+                1069,
+                2589
+            ],
+            [
+                1069,
+                2640
+            ],
+            [
+                757,
+                2640
+            ]
+        ],
+        "easyocr_text": "CHANDRALATHA",
+        "paddleocr_text": "CHANDRALATHA",
+        "confidence": 0.9924662113189697
+    },
+    {
+        "bounding_box": [
+            [
+                3336,
+                2568
+            ],
+            [
+                3420,
+                2568
+            ],
+            [
+                3420,
+                2613
+            ],
+            [
+                3336,
+                2613
+            ]
+        ],
+        "easyocr_text": "134",
+        "paddleocr_text": "134",
+        "confidence": 0.8575129508972168
+    },
+    {
+        "bounding_box": [
+            [
+                1242,
+                2604
+            ],
+            [
+                1302,
+                2604
+            ],
+            [
+                1302,
+                2646
+            ],
+            [
+                1242,
+                2646
+            ]
+        ],
+        "easyocr_text": "1 E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9897648096084595
+    },
+    {
+        "bounding_box": [
+            [
+                1368,
+                2607
+            ],
+            [
+                1452,
+                2607
+            ],
+            [
+                1452,
+                2646
+            ],
+            [
+                1368,
+                2646
+            ]
+        ],
+        "easyocr_text": "35*",
+        "paddleocr_text": "35*",
+        "confidence": 0.9138514399528503
+    },
+    {
+        "bounding_box": [
+            [
+                1704,
+                2616
+            ],
+            [
+                1785,
+                2616
+            ],
+            [
+                1785,
+                2655
+            ],
+            [
+                1704,
+                2655
+            ]
+        ],
+        "easyocr_text": "60 *",
+        "paddleocr_text": "60*",
+        "confidence": 0.8847318291664124
+    },
+    {
+        "bounding_box": [
+            [
+                2037,
+                2622
+            ],
+            [
+                2094,
+                2622
+            ],
+            [
+                2094,
+                2664
+            ],
+            [
+                2037,
+                2664
+            ]
+        ],
+        "easyocr_text": "26",
+        "paddleocr_text": "26",
+        "confidence": 0.9915491342544556
+    },
+    {
+        "bounding_box": [
+            [
+                2373,
+                2631
+            ],
+            [
+                2433,
+                2631
+            ],
+            [
+                2433,
+                2676
+            ],
+            [
+                2373,
+                2676
+            ]
+        ],
+        "easyocr_text": "28",
+        "paddleocr_text": "28",
+        "confidence": 0.9961159229278564
+    },
+    {
+        "bounding_box": [
+            [
+                2712,
+                2637
+            ],
+            [
+                2790,
+                2637
+            ],
+            [
+                2790,
+                2679
+            ],
+            [
+                2712,
+                2679
+            ]
+        ],
+        "easyocr_text": "23*",
+        "paddleocr_text": "23*",
+        "confidence": 0.9681534767150879
+    },
+    {
+        "bounding_box": [
+            [
+                3048,
+                2646
+            ],
+            [
+                3129,
+                2646
+            ],
+            [
+                3129,
+                2688
+            ],
+            [
+                3048,
+                2688
+            ]
+        ],
+        "easyocr_text": "24*",
+        "paddleocr_text": "24*",
+        "confidence": 0.9460904002189636
+    },
+    {
+        "bounding_box": [
+            [
+                3333,
+                2652
+            ],
+            [
+                3420,
+                2652
+            ],
+            [
+                3420,
+                2697
+            ],
+            [
+                3333,
+                2697
+            ]
+        ],
+        "easyocr_text": "196",
+        "paddleocr_text": "196",
+        "confidence": 0.9947853684425354
+    },
+    {
+        "bounding_box": [
+            [
+                3469,
+                2659
+            ],
+            [
+                3494,
+                2659
+            ],
+            [
+                3494,
+                2693
+            ],
+            [
+                3469,
+                2693
+            ]
+        ],
+        "easyocr_text": "P",
+        "paddleocr_text": "P",
+        "confidence": 0.9005015636226723
+    },
+    {
+        "bounding_box": [
+            [
+                296,
+                2663
+            ],
+            [
+                457,
+                2663
+            ],
+            [
+                457,
+                2713
+            ],
+            [
+                296,
+                2713
+            ]
+        ],
+        "easyocr_text": "102519",
+        "paddleocr_text": "102519",
+        "confidence": 0.9975783824920654
+    },
+    {
+        "bounding_box": [
+            [
+                501,
+                2673
+            ],
+            [
+                636,
+                2673
+            ],
+            [
+                636,
+                2715
+            ],
+            [
+                501,
+                2715
+            ]
+        ],
+        "easyocr_text": "Katta",
+        "paddleocr_text": "KATTA",
+        "confidence": 0.996978759765625
+    },
+    {
+        "bounding_box": [
+            [
+                654,
+                2676
+            ],
+            [
+                837,
+                2676
+            ],
+            [
+                837,
+                2721
+            ],
+            [
+                654,
+                2721
+            ]
+        ],
+        "easyocr_text": "NEERAJ A",
+        "paddleocr_text": "NEERAJA",
+        "confidence": 0.9964532256126404
+    },
+    {
+        "bounding_box": [
+            [
+                1242,
+                2688
+            ],
+            [
+                1302,
+                2688
+            ],
+            [
+                1302,
+                2733
+            ],
+            [
+                1242,
+                2733
+            ]
+        ],
+        "easyocr_text": "1E",
+        "paddleocr_text": "1E",
+        "confidence": 0.9863234758377075
+    },
+    {
+        "bounding_box": [
+            [
+                1368,
+                2691
+            ],
+            [
+                1449,
+                2691
+            ],
+            [
+                1449,
+                2733
+            ],
+            [
+                1368,
+                2733
+            ]
+        ],
+        "easyocr_text": "35+",
+        "paddleocr_text": "35",
+        "confidence": 0.9977140426635742
+    },
+    {
+        "bounding_box": [
+            [
+                1701,
+                2703
+            ],
+            [
+                1782,
+                2703
+            ],
+            [
+                1782,
+                2742
+            ],
+            [
+                1701,
+                2742
+            ]
+        ],
+        "easyocr_text": "6 3 *",
+        "paddleocr_text": "63*",
+        "confidence": 0.9671280384063721
+    },
+    {
+        "bounding_box": [
+            [
+                2034,
+                2709
+            ],
+            [
+                2091,
+                2709
+            ],
+            [
+                2091,
+                2751
+            ],
+            [
+                2034,
+                2751
+            ]
+        ],
+        "easyocr_text": "15",
+        "paddleocr_text": "15",
+        "confidence": 0.9986969232559204
+    },
+    {
+        "bounding_box": [
+            [
+                2373,
+                2718
+            ],
+            [
+                2427,
+                2718
+            ],
+            [
+                2427,
+                2760
+            ],
+            [
+                2373,
+                2760
+            ]
+        ],
+        "easyocr_text": "21",
+        "paddleocr_text": "21",
+        "confidence": 0.9960614442825317
+    },
+    {
+        "bounding_box": [
+            [
+                2709,
+                2724
+            ],
+            [
+                2766,
+                2724
+            ],
+            [
+                2766,
+                2769
+            ],
+            [
+                2709,
+                2769
+            ]
+        ],
+        "easyocr_text": "12",
+        "paddleocr_text": "12",
+        "confidence": 0.998526930809021
+    },
+    {
+        "bounding_box": [
+            [
+                3045,
+                2733
+            ],
+            [
+                3105,
+                2733
+            ],
+            [
+                3105,
+                2778
+            ],
+            [
+                3045,
+                2778
+            ]
+        ],
+        "easyocr_text": "06",
+        "paddleocr_text": "06",
+        "confidence": 0.9531856775283813
+    },
+    {
+        "bounding_box": [
+            [
+                3330,
+                2742
+            ],
+            [
+                3417,
+                2742
+            ],
+            [
+                3417,
+                2787
+            ],
+            [
+                3330,
+                2787
+            ]
+        ],
+        "easyocr_text": "152",
+        "paddleocr_text": "152",
+        "confidence": 0.9988920092582703
+    },
+    {
+        "bounding_box": [
+            [
+                3049,
+                226
+            ],
+            [
+                3141,
+                238
+            ],
+            [
+                3134,
+                280
+            ],
+            [
+                3042,
+                269
+            ]
+        ],
+        "easyocr_text": "Page",
+        "paddleocr_text": "Page",
+        "confidence": 0.9991047382354736
+    },
+    {
+        "bounding_box": [
+            [
+                1729,
+                1057
+            ],
+            [
+                1815,
+                1068
+            ],
+            [
+                1808,
+                1109
+            ],
+            [
+                1723,
+                1098
+            ]
+        ],
+        "easyocr_text": "49 *",
+        "paddleocr_text": "*67",
+        "confidence": 0.7648062109947205
+    },
+    {
+        "bounding_box": [
+            [
+                1720,
+                1499
+            ],
+            [
+                1801,
+                1493
+            ],
+            [
+                1803,
+                1533
+            ],
+            [
+                1721,
+                1538
+            ]
+        ],
+        "easyocr_text": "69 *",
+        "paddleocr_text": "9",
+        "confidence": 0.5033634901046753
+    }
+]
