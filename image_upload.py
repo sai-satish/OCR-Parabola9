@@ -1,4 +1,5 @@
 # Function to process the image pipeline
+from Image_Conversion import *
 def process_image_pipeline(img_path, output_image_path, resolution):
     try:
         resized_image_path = resize_to_resolution(img_path, output_image_path, resolution)
