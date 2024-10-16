@@ -4,34 +4,50 @@ import ChatBot from './components/ChatBot';
 import { useState } from 'react';
 
 export default function Page() {
-  const [uploadedFile, setUploadedFile] = useState(null);
+  const [uploadedFile, setUploadedFile] = useState(null);  // Store the file for preview
   const [jsonData, setJsonData] = useState(null);  // To store JSON data from OCR
 
   const handleImageUpload = async (event) => {
     const file = event.target.files[0];
+    if (!file) {
+      console.error('No file selected');
+      return;
+    }
+
+    console.log('File selected:', file);  // Debugging: Log file info
     const formData = new FormData();
     formData.append("image", file);
+
+    // Log environment variable value
+    console.log('Ngrok URL:', process.env.NEXT_PUBLIC_NGROK_URL);  // Ensure env variable is correct
     const ngrokUrl = `${process.env.NEXT_PUBLIC_NGROK_URL}/upload-image/`;
 
     try {
+      console.log('Sending POST request to:', ngrokUrl);
       const response = await fetch(ngrokUrl, {
         method: 'POST',
         body: formData,
       });
 
       if (!response.ok) {
-        throw new Error('Network response was not ok');
+        const errorMsg = await response.text(); // Capture the error message
+        console.error('Network response was not ok:', errorMsg);
+        throw new Error(`Error: ${response.status} - ${errorMsg}`);
       }
-      console.log('Image uploaded successfully');
-      console.log(response);
-      const data = await response.json();
-      console.log(data); // Log the OCR data
-      setJsonData(data); // Store the JSON data from OCR
+
+      console.log('Image uploaded successfully:', response);
+      const data = await response.json();  // Get JSON response
+      console.log('OCR response data:', data);  // Log the OCR data
+      setJsonData(data);  // Store the JSON data from OCR
+
+      // Store the uploaded file URL for preview
+      const fileURL = URL.createObjectURL(file);
+      setUploadedFile(fileURL);
+
     } catch (error) {
-      console.error('Error:', error);
+      console.error('Error uploading image:', error);
     }
   };
-
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-between bg-gradient-to-r from-blue-50 to-indigo-100 p-4">
