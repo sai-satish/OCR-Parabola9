@@ -92,76 +92,60 @@ def denoise_image(path):
         return enhanced_image_path
 
 
+# Function to process image with EasyOCR and PaddleOCR
 def perform_ocr_and_get_json(img_path):
-
-    # Initialize the PaddleOCR model for English
-    ocr = PaddleOCR(use_angle_cls=True, lang='en')
-
-    # Load the image
-    img_path = './sample1-out/output_image_2k.jpg'
     img = cv2.imread(img_path)
-
-    # Perform OCR on the image
-    result = ocr.ocr(img_path, cls=True)
-
-    # Function to group text boxes into rows based on y-coordinates
-    def is_same_row(box1, box2, row_threshold=10):
-        _, y1, _, y2 = box1[0][1], box1[2][1], box2[0][1], box2[2][1]
-        return abs(y1 - y2) < row_threshold
-
-    # Group the detected text into rows
-    rows = []
-    current_row = []
-    for line in result[0]:
-        box = line[0]      # Bounding box coordinates
-        text = line[1][0]  # Detected text
-        confidence = line[1][1]
-
-        if current_row and not is_same_row(current_row[-1][0], box):
-            rows.append(current_row)
-            current_row = []
-
-        current_row.append((box, text, confidence))
-
-    if current_row:
-        rows.append(current_row)
-
-    # Sort each row by the x-coordinate for left-to-right reading
-    for row in rows:
-        row.sort(key=lambda x: x[0][0][0])
-
-    # Dynamically extract column headers from the first row
-    column_headers = [item[1] for item in rows[0]]  # Extract text values from the first row
-
-    # Convert subsequent rows into structured data
-    data = []
-    for row in rows[1:]:  # Skip the first row, as it's the header
-        row_data = {}
-        for i, (box, text, confidence) in enumerate(row):
-            if i < len(column_headers):  # Ensure we don't exceed column count
-                row_data[column_headers[i]] = {
-                    "text": text,
-                    "confidence": confidence,
-                    "bounding_box": box  # Store the bounding box information
-                }
-        data.append(row_data)
+    easy_reader = easyocr.Reader(['en'])
+    paddle_reader = PaddleOCR(use_angle_cls=True, lang='en')
+    easyocr_result = easy_reader.readtext(img_path, detail=1)
     
+    rows = []
+    for line in easyocr_result:
+        try:
+            box = line[0]
+            easyocr_text = line[1]
+            confidence = line[2]
 
-    # Save the structured data with bounding box info as JSON
-    json_file_path = './bounding_box_data_with_text.json'
-    with open(json_file_path, 'w') as json_file:
-        json.dump(data, json_file, indent=4)
+            # Crop and run PaddleOCR
+            x_min = int(min(box[0][0], box[1][0], box[2][0], box[3][0]))
+            y_min = int(min(box[0][1], box[1][1], box[2][1], box[3][1]))
+            x_max = int(max(box[0][0], box[1][0], box[2][0], box[3][0]))
+            y_max = int(max(box[0][1], box[1][1], box[2][1], box[3][1]))
 
-    # print(f"Bounding box data saved as JSON: {json_file_path}")
+            cropped_img = img[y_min:y_max, x_min:x_max]
+            cropped_img_path = './temp_cropped_img.jpg'
+            cv2.imwrite(cropped_img_path, cropped_img)
 
-    # (Optional) Visualize the detected text and bounding boxes
-    boxes = [res[0] for res in result[0]]  # Bounding boxes for the detected text
-    txts = [res[1][0] for res in result[0]]  # The recognized text
-    scores = [res[1][1] for res in result[0]]  # Confidence scores
+            paddle_result = paddle_reader.ocr(cropped_img_path, cls=True)
 
-    # Draw results on the image and visualize
-    image_with_boxes = cv2.polylines(img.copy(), [np.array(box).astype(int) for box in boxes], True, (0, 255, 0), 2)
+            if paddle_result[0]:
+                refined_text = paddle_result[0][0][1][0]
+                refined_confidence = paddle_result[0][0][1][1]
+            else:
+                refined_text = easyocr_text
+                refined_confidence = confidence
 
-    # Convert BGR to RGB for displaying with matplotlib
-    # image_with_boxes_rgb = cv2.cvtColor(image_with_boxes, cv2.COLOR_BGR2RGB)
+            # Convert bounding box to native Python list of int (to avoid numpy types)
+            box = [[int(point[0]), int(point[1])] for point in box]
+
+            # Append the processed result
+            rows.append({
+                "bounding_box": box,
+                "easyocr_text": easyocr_text,
+                "paddleocr_text": refined_text,
+                "confidence": refined_confidence
+            })
+
+        except TypeError as e:
+            print(f"Skipping text due to TypeError: {e}")
+            continue
+
+    # Save JSON
+    json_file_path = './combined_ocr_results.json'
+    try:
+        with open(json_file_path, 'w') as json_file:
+            json.dump(rows, json_file, indent=4)
+    except TypeError as e:
+        print(f"Error saving JSON: {e}")
+
     return json_file_path
